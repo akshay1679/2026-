@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "a7637addfbc265f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a49d99c2dd5ad9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5fa477cefe719bc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "06a41f721a485662",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2db0d9f6a556e67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22cb213078b520f9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "16624908be184980",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "133040de0623604e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 228.5
+  },
+  "right": {
+    "id": "a7afa5ab8a0baa9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "59ca0f4145647ea9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33fffcad83a145e7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Python Data Structures and Algorithms.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Python Data Structures and Algorithms"
+            }
+          },
+          {
+            "id": "1544fcf012f01894",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Python Data Structures and Algorithms.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Python Data Structures and Algorithms"
+            }
+          },
+          {
+            "id": "3435af2ee3e8649c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d8673282661a59c3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Python Data Structures and Algorithms.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Python Data Structures and Algorithms"
+            }
+          },
+          {
+            "id": "d875d75e1a71797b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "git-view"
+            }
+          },
+          {
+            "id": "65e0053ab4b7eddd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "d5fa477cefe719bc",
+  "lastOpenFiles": [
+    "Quick Recap/Python 🐍.md",
+    "Quick Recap",
+    "Intership/Infosys Springboard",
+    "Intership",
+    "README.md",
+    "Courses",
+    "Courses/DSA Course Udemy/__Backbone 💀 DSA Udemy.md",
+    "Courses/DSA Course Udemy/Day 25.md",
+    "Courses/DSA Course Udemy/Day 24.md",
+    "Courses/DSA Course Udemy/Day 23.md",
+    "Courses/DSA Course Udemy/Day 22.md",
+    "Courses/DSA Course Udemy/Day 21.md",
+    "Courses/DSA Course Udemy/Day 20.md",
+    "Courses/DSA Course Udemy/Day 19.md",
+    "Courses/DSA Course Udemy/Day 18.md",
+    "Courses/DSA Course Udemy/Day 17.md",
+    "Courses/DSA Course Udemy/Day 16.md",
+    "Courses/DSA Course Udemy/Day 15.md",
+    "Courses/DSA Course Udemy/Day 14.md",
+    "Courses/DSA Course Udemy/Day 13.md",
+    "Courses/DSA Course Udemy/Day 12.md",
+    "Courses/DSA Course Udemy/Day 11.md",
+    "Courses/DSA Course Udemy/Day 10.md",
+    "Courses/DSA Course Udemy/Day 9.md",
+    "Courses/DSA Course Udemy/Day 8.md",
+    "Courses/DSA Course Udemy/Day 7.md",
+    "Courses/DSA Course Udemy/Day 6.md",
+    "Courses/DSA Course Udemy/Day 5.md",
+    "Courses/DSA Course Udemy/Day 4.md",
+    "Pasted image 20251230074941.png",
+    "Courses/DSA Course Udemy",
+    "Pasted image 20251229202558.png",
+    "Daily Notes",
+    "Tracker",
+    "__Extras/Templates",
+    "__Extras",
+    "Tracker",
+    "sem_3/aptitude/pasted_images/Pasted image 20250417124251.png",
+    "sem_3/aptitude/pasted_images/Pasted image 20250417124200.png",
+    "sem_3/aptitude/pasted_images/Pasted image 20250417122419.png",
+    "sem_3/aptitude/pasted_images/Pasted image 20250417122048.png",
+    "sem_3/aptitude/pasted_images/Pasted image 20250417122015.png",
+    "sem_3/aptitude/pasted_images/Pasted image 20250417120832.png",
+    "sem_3/aptitude/pasted_images/Pasted image 20250417120447.png",
+    "sem_3/aptitude/pasted_images/Pasted image 20250417115831.png",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "sem_1/Untitled.canvas",
+    "MCA_2024-2026/Untitled.canvas"
+  ]
+}
