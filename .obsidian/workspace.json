@@ -4,20 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "1a49d99c2dd5ad9f",
+        "id": "1eca47017687e42f",
         "type": "tabs",
         "children": [
           {
-            "id": "d5fa477cefe719bc",
+            "id": "6cfe909706f88fae",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "__Notes & To do/To Do List.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "To Do List"
+            }
+          },
+          {
+            "id": "696539d0047b5216",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "__Notes & To do/notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "notes"
+            }
+          },
+          {
+            "id": "d9d20efc53a20557",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Intership/Cyber_Gurukul_Deloitte/SDI 23_01_2026.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "SDI 23_01_2026"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -74,7 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 206.5
   },
   "right": {
     "id": "a7afa5ab8a0baa9e",
@@ -186,45 +223,46 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d5fa477cefe719bc",
+  "active": "d9d20efc53a20557",
   "lastOpenFiles": [
-    "Quick Recap/Python 🐍.md",
+    "ngzzw.md",
+    "ransomwhere.md",
+    "Intership/Cyber_Gurukul_Deloitte/SDI 23_01_2026.md",
+    "Intership/Cyber_Gurukul_Deloitte/_Support_files/malware.md",
+    "Intership/Cyber_Gurukul_Deloitte/_Support_files/hacker Types.md",
+    "Intership/Cyber_Gurukul_Deloitte/_Support_files/Insider Threats.md",
+    "State sponsored hackers.md",
+    "suicidal hacker.md",
+    "Intership/Cyber_Gurukul_Deloitte/_Support_files/Hacktivist.md",
+    "Intership/Cyber_Gurukul_Deloitte/_Support_files/black hat.md",
+    "Intership/Cyber_Gurukul_Deloitte/_Support_files/hack.md",
+    "Intership/Cyber_Gurukul_Deloitte/_Support_files/DPDPA.md",
+    "Intership/Cyber_Gurukul_Deloitte/_Support_files/PCIDSS.md",
+    "Intership/Cyber_Gurukul_Deloitte/_Support_files/PIA.md",
+    "Intership/Cyber_Gurukul_Deloitte/_Support_files/cyber security.md",
+    "📈 Progress Dashboard 📈.md",
+    "Rag in llm (retrieval augmented) what data.md",
+    "vulnerability.md",
+    "__Notes & To do/notes.md",
+    "Intership/Cyber_Gurukul_Deloitte/_Case study/Case Study sony hacking.md",
+    "Intership/Cyber_Gurukul_Deloitte/_Case study/Case Study XELERA Ransomware.md",
+    "Intership/Cyber_Gurukul_Deloitte/_Support_files/POC.md",
+    "__Notes & To do/To Do List.md",
+    "Excalidraw/Drawing 2026-01-25 07.55.37.excalidraw.md",
+    "Intership/Infosys Springboard/EDA  (Exploratory Data Analysis)/basics.md",
+    "PIAI.md",
+    "__Notes & To do",
+    "Intership/Cyber_Gurukul_Deloitte/_Case study",
+    "Excalidraw",
+    "Intership/Cyber_Gurukul_Deloitte/_Support_files",
+    "Intership/Infosys Springboard/EDA  (Exploratory Data Analysis)",
+    "📖📖 python-data-structures-algorithms",
     "Quick Recap",
     "Intership/Infosys Springboard",
     "Intership",
-    "README.md",
     "Courses",
-    "Courses/DSA Course Udemy/__Backbone 💀 DSA Udemy.md",
-    "Courses/DSA Course Udemy/Day 25.md",
-    "Courses/DSA Course Udemy/Day 24.md",
-    "Courses/DSA Course Udemy/Day 23.md",
-    "Courses/DSA Course Udemy/Day 22.md",
-    "Courses/DSA Course Udemy/Day 21.md",
-    "Courses/DSA Course Udemy/Day 20.md",
-    "Courses/DSA Course Udemy/Day 19.md",
-    "Courses/DSA Course Udemy/Day 18.md",
-    "Courses/DSA Course Udemy/Day 17.md",
-    "Courses/DSA Course Udemy/Day 16.md",
-    "Courses/DSA Course Udemy/Day 15.md",
-    "Courses/DSA Course Udemy/Day 14.md",
-    "Courses/DSA Course Udemy/Day 13.md",
-    "Courses/DSA Course Udemy/Day 12.md",
-    "Courses/DSA Course Udemy/Day 11.md",
-    "Courses/DSA Course Udemy/Day 10.md",
-    "Courses/DSA Course Udemy/Day 9.md",
-    "Courses/DSA Course Udemy/Day 8.md",
-    "Courses/DSA Course Udemy/Day 7.md",
-    "Courses/DSA Course Udemy/Day 6.md",
-    "Courses/DSA Course Udemy/Day 5.md",
-    "Courses/DSA Course Udemy/Day 4.md",
     "Pasted image 20251230074941.png",
-    "Courses/DSA Course Udemy",
     "Pasted image 20251229202558.png",
-    "Daily Notes",
-    "Tracker",
-    "__Extras/Templates",
-    "__Extras",
-    "Tracker",
     "sem_3/aptitude/pasted_images/Pasted image 20250417124251.png",
     "sem_3/aptitude/pasted_images/Pasted image 20250417124200.png",
     "sem_3/aptitude/pasted_images/Pasted image 20250417122419.png",

@@ -7,7 +7,7 @@ print("apple")
 
 ## global Keyword
 
-```
+```python
 x = "cat"
 def myfunc():
   global x
@@ -21,7 +21,7 @@ print("Python is " + x)
 
 ## Type Conversion
 
-```
+```python
 #convert from int to float:  
 a = float(x)  
   
@@ -41,7 +41,7 @@ print(random.randrange(1, 10))
 
 # Python - Slicing Strings
 
-```
+```python
 b = "Hello, World!"  
 print(b[2:5])
 ```
@@ -49,3 +49,5 @@ print(b[2:5])
 ```output
 llo
 ```
+
+

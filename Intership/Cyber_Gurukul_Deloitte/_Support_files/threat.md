@@ -1,0 +1,1 @@
+something that has the power to decrease the asset value

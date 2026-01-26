@@ -1,0 +1,1 @@
+They use their computer skills to **<mark style="background: #ABF7F7A6;">break into systems illegally</mark>**, steal data, spread viruses, or cause damage **for personal gain or harm**.
