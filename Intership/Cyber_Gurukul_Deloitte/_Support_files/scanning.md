@@ -18,3 +18,22 @@ most time people are going with the default config
 
 so ports that are unused and un attended ports hackers can utilis them
 so close the un attended ports then close them this is called ==hardening==
+
+
+**What it means:**  
+Now the attacker **interacts with the target system** to find weaknesses.
+
+**In simple terms:**  
+Like checking which doors and windows of a house are unlocked.
+
+**What happens at a high level:**
+
+- Checking which systems are running
+    
+- Identifying open ports or services
+    
+- Looking for known vulnerabilities
+    
+
+**Why it matters:**  
+This step reveals **possible entry points**.

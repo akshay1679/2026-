@@ -1,0 +1,1 @@
+“**Response time**” of a **process** means the **total time it takes from when a request arrives until the process produces its first response or completes the task** (depending on context).

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intership/Cyber_Gurukul_Deloitte/SDI 23_01_2026.md",
-                "mode": "preview",
+                "file": "Intership/Cyber_Gurukul_Deloitte/Speaking Skills/Sentence framing Day 1.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SDI 23_01_2026"
+              "title": "Sentence framing Day 1"
             }
           }
         ]
@@ -112,6 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "access control.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -168,13 +169,31 @@
   },
   "active": "af018c103591b3fa",
   "lastOpenFiles": [
-    "Intership/Cyber_Gurukul_Deloitte/_Support_files/hacker Types.md",
-    "ngzzw.md",
-    "Intership/Cyber_Gurukul_Deloitte/_Support_files/Insider Threats.md",
-    "black hat.md",
-    "Intership/Cyber_Gurukul_Deloitte/SDI 23_01_2026.md",
-    "Intership/Cyber_Gurukul_Deloitte/_Support_files/hack.md",
-    "Intership/Cyber_Gurukul_Deloitte/_Support_files/PCIDSS.md",
-    "Intership/Cyber_Gurukul_Deloitte/_Support_files/PIA.md"
+    "rogue access point.md",
+    "Intership/Cyber_Gurukul_Deloitte/SDI 27_01_2026.md",
+    "zero day vulnerability.md",
+    "unpatched software.md",
+    "iot.md",
+    "Dlp.md",
+    "SQL injection.md",
+    "Man in the middle attack MITM.md",
+    "Dos.md",
+    "availability.md",
+    "redundency.md",
+    "Integrity.md",
+    "Hashing.md",
+    "confidentiality.md",
+    "access control.md",
+    "secure disposal of data.md",
+    "role based access control.md",
+    "encription.md",
+    "Data in transit.md",
+    "Data in rest.md",
+    "Data in use.md",
+    "Man in the middle attack.md",
+    "swiggy scam.md",
+    "Intership/Cyber_Gurukul_Deloitte/_Support_files/ransomwhere.md",
+    "Intership/Cyber_Gurukul_Deloitte/_Support_files/malware.md",
+    "Intership/Cyber_Gurukul_Deloitte/SDI 23_01_2026.md"
   ]
 }

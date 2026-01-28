@@ -98,6 +98,33 @@ what happens here is a will has a number 65 when it gets converted into a charac
 
 <mark style="background: #ABF7F7A6;">how to type cast</mark> `char b = (char) a;`
 
+```java
+public class Main {
+
+    public static void main(String[] args) {
+        int a = 2000;
+        String b = (String) a;
+        System.out.println(b);
+    }
+}
+```
+
+👆 this wont work bic
+
+- `a` is an `int` (a <mark style="background: #ABF7F7A6;">primitive type</mark>).
+    
+- `String` is a <mark style="background: #ABF7F7A6;">reference type</mark>.
+    
+- <mark style="background: #ABF7F7A6;">Java does not allow casting between primitives and unrelated reference types</mark>.
+
+```java
+int a = 2000;
+String b = Integer.toString(a);
+System.out.println(b);
+```
+
+---
+
 | Operator | Name      | Description                            | Example |
 | -------- | --------- | -------------------------------------- | ------- |
 | ++       | Increment | Increases the value of a variable by 1 | ++x     |
@@ -341,10 +368,109 @@ public class Main {
 }
 ```
 
+
+
+```java
+public class Operation{
+    public static void main(String[] args) {
+        int x = 10;
+        int y = 20;
+        System.out.println(x > y); //false
+        System.out.println(y < x); //False
+        System.out.println(x != y); //True
+    }
+}
+```
+
+```java
+public class apple{
+    public static void main(String[] args) {
+        int age = 20;
+        int age1 = 30;
+        boolean hasId = true;
+        System.out.println(age >= 18 && hasId && age <= age1); //true
+        System.out.println(age <= 18 || hasId); //true
+        System.out.println(!hasId); //false
+    }
+}
+```
+
+in case of java Boolean value cannot take in the value of o or null it only takes the value as <mark style="background: #ADCCFFA6;">true</mark> or <mark style="background: #ADCCFFA6;">false</mark>
+
+
+```java
+public class IfStatement{
+    public static void main(String[] args) {
+        int age = 8;
+        if(age >= 18){
+            System.out.println("able to vote");
+        }
+        else{
+            System.out.println("not able to vote");
+        }
+  
+    }
+}
+```
 ## Java Method Overloading
+
+---
+
+---
+
+---
+
 
 
 # java practice questions basic
 
 https://www.geeksforgeeks.org/java/java-programming-examples/
+
+[[java practice questions]]
+
+| String b = Integer.toString(a); |                                         |
+| ------------------------------- | --------------------------------------- |
+| char b = (char) a;              |                                         |
+| name.length();              --> | to get lngth of string                  |
+| animals.length              --> | to get length of array                  |
+| name.toUpperCase();             |                                         |
+| indexOf("akshay")         -->   | this is used for sentence not for array |
+| name.toCharArray()      -->     | get charecters from string              |
+```java
+public class loops {
+
+  
+
+    public static void main(String[] args) {
+
+        int number = 1234;
+
+        String b = Integer.toString(number);
+
+        System.out.println(b.length());
+
+    }
+
+}
+```
+
+<mark style="background: #FFB8EBA6;">reverse a number in java</mark>
+
+```java
+while(num!= 0)
+{
+
+}
+```
+
+
+```java
+*
+**
+***
+****
+*****
+```
+
+`for(;i<=5;i++)` --> is it correct for a loop
 

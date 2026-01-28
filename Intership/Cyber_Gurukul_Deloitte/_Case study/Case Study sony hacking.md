@@ -1,3 +1,26 @@
+
+step 1 --> spear fishing
+
+step 2 --> privilage escalation
+
+step 3 --> Data theft
+
+step 4 --> Data distruction
+
+
+buro 121 the hacking unit of north korea
+mark Rogers principal security expert --> malware expert --> cloud flare
+Dan kaminsky  --> whike ops
+dns cash snooping
+Kurt Baumgartner
+dark soul cyber attack
+wiper attacks
+nicole Perlroth cybercequrity reporter NY times
+
+
+
+
+---
 sony hacking 
 they used sniffing
 they where visiting a news paper site like new York times
