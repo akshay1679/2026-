@@ -4,71 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "1eca47017687e42f",
+        "id": "6bbda70490c8b12f",
         "type": "tabs",
         "children": [
           {
-            "id": "6cfe909706f88fae",
+            "id": "0641331839b4011e",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__Notes & To do/To Do List.md",
+                "file": "Identity.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "To Do List"
+              "title": "Identity"
             }
           },
           {
-            "id": "9e1b9f8cea4af276",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "__Notes & To do/notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "notes"
-            }
-          },
-          {
-            "id": "b035bb171c8911e1",
+            "id": "b7c0c578c9ca3517",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intership/Cyber_Gurukul_Deloitte/SDI 28_01_2026.md",
+                "file": "Intership/Cyber_Gurukul_Deloitte/SDI 27_01_2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SDI 28_01_2026"
-            }
-          },
-          {
-            "id": "a4544162b087a51b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Audit Log Management.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Audit Log Management"
+              "title": "SDI 27_01_2026"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.5,
+    "width": 233.5,
     "collapsed": true
   },
   "right": {
@@ -238,46 +206,46 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b035bb171c8911e1",
+  "active": "b7c0c578c9ca3517",
   "lastOpenFiles": [
+    "Authorization.md",
+    "Identity.md",
+    "Intership/Cyber_Gurukul_Deloitte/SDI 29_01_2026.md",
+    "Intership/Cyber_Gurukul_Deloitte/SDI 23_01_2026.md",
+    "Intership/Cyber_Gurukul_Deloitte/_Support_files/hacker Types.md",
+    "Intership/Cyber_Gurukul_Deloitte/_Support_files/suicidal hacker.md",
+    "Intership/Cyber_Gurukul_Deloitte/_Support_files/black hat.md",
+    "Authentication.md",
+    "Pasted image 20260129121929.png",
+    "Pasted image 20260129121759.png",
+    "Biometric authentication.md",
+    "Intership/Cyber_Gurukul_Deloitte/SDI 22_01_2026.md",
+    "__Notes & To do/To Do List.md",
+    "__Notes & To do/notes.md",
+    "Intership/Cyber_Gurukul_Deloitte/__Backbone SDI.md",
+    "Password.md",
+    "Pasted image 20260129103236.png",
+    "users.webp",
+    "Excalidraw/token authentication system.excalidraw.md",
+    "Excalidraw/Drawing 2026-01-29 10.19.25.excalidraw.md",
     "Audit Log Management.md",
+    "Quick Recap/Java ｡🇯‌🇸‌.md",
+    "iot.md",
+    "iot.sync-conflict-20260128-100621-K6NHIRD.md",
     "Intership/Cyber_Gurukul_Deloitte/SDI 28_01_2026.md",
     "Continuous Vulnerability Management.md",
     "Account Management.md",
     "Access Control Management.md",
     "Secure Configuration of Enterprise Assets and Software.md",
     "Data Protection.md",
-    "Inventory and Control of Software Assets.md",
-    "showdowing.md",
-    "__Notes & To do/notes.md",
     "20240205_What_Are_The_18_CIS_Controls_In_Version_8_Inline_Graphic_1_c65c425a82.webp",
     "Pasted image 20260128120900.png",
     "Pasted image 20260128120752.png",
-    "Intership/Cyber_Gurukul_Deloitte/__Backbone SDI.md",
-    "Defence in Depth.md",
-    "Deterrent control.md",
     "Pasted image 20260128115355.jpg",
-    "Preventive control.md",
-    "Excalidraw/Drawing 2026-01-28 09.46.26.excalidraw.md",
-    "Password Expiry.md",
-    "Password Policy.md",
-    "calculation for risk assesment.md",
-    "iot.sync-conflict-20260128-100621-K6NHIRD.md",
     "~syncthing~iot.sync-conflict-20260128-100621-K6NHIRD.md.tmp",
     "~syncthing~Dlp.md.tmp",
-    "Salting.md",
     "implementation_961b5d82-f23a-470b-9648-758a89fa5f19_600x600.webp",
     "Pasted image 20260128094514.png",
-    "SQL injection.md",
-    "availability.md",
-    "Dos.md",
-    "Intership/Cyber_Gurukul_Deloitte/SDI 27_01_2026.md",
-    "redundancy.md",
-    "Integrity.md",
-    "sql-injection.svg",
-    "difference-between-dos-vs-ddos.webp",
-    "Pasted image 20260127151753.png",
-    "Pasted image 20260127151727.png",
     "Intership/Cyber_Gurukul_Deloitte/Speaking Skills",
     "Network",
     "OS",
