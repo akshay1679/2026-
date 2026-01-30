@@ -1,3 +1,60 @@
+
+# Java Identifiers
+
+In **Java**, an **identifier** is the **name you give to a program element** so Java can identify it.
+
+### Examples of identifiers
+
+- Variable names → `count`, `totalPrice`
+- Method names → `calculateSum()`, `printDetails()`
+- Class names → `Student`, `BankAccount`
+- Interface names → `Runnable`
+- Package names → `com.example.app`
+
+## ****Rules For Naming Java Identifiers****
+
+-### Rules for Naming Identifiers in Java
+
+1. An identifier can contain **letters (A–Z, a–z), digits (0–9), underscore (_), and <mark style="background: #FF5582A6;">dollar sign ($)</mark>**.
+2. An identifier **must begin with a letter, underscore (_), or <mark style="background: #FF5582A6;">dollar sign ($)</mark>**.
+3. An identifier **<mark style="background: #FF5582A6;">cannot start with a digit</mark>**.
+4. **No spaces** are allowed in an identifier.
+5. **Special characters** like `@`, `#`, `%`, `-` are **not allowed**.
+6. An identifier **must not be a Java keyword** (e.g., `int`, `class`, `public`).
+7. Identifiers are **case-sensitive** (`sum` and `Sum` are different).
+8. An identifier can be of **any length**.
+
+![[data_types_in_java.webp]]
+
+## Class
+
+A class is a user-defined blueprint that defines variables and methods. It represents a type of object and forms the foundation of Object-Oriented Programming.
+
+```java
+class Car {
+    String model;
+    int year;
+
+    Car(String model, int year) {
+        this.model = model;
+        this.year = year;
+    }
+
+    void display() {
+        System.out.println(model + " " + year);
+    }
+}
+
+public class Geeks {
+    public static void main(String[] args) {
+        Car myCar = new Car("Toyota", 2020);
+        myCar.display(); 
+    }
+}
+```
+
+
+
 [[Drawing 2026-01-25 07.55.37.excalidraw]]
 
 <mark style="background: #ABF7F7A6;">final keyword </mark> --> 
@@ -412,7 +469,11 @@ public class IfStatement{
     }
 }
 ```
-## Java Method Overloading
+
+---
+---
+---
+
 
 ---
 
@@ -932,8 +993,237 @@ void greet(String name) {
 greet("Alex");
 ```
 
-👉 What is the **formal argument**?  
-👉 What is the **actual argument**?
+# Encapsulation
 
-Answer in one line — I’ll confirm 👍
+if we need to assign value we need to have a main method
+
+getter method
+setter method
+
+who  is having an argument and who is not having an argument
+
+what happens if i make an int static inside a clas and then make method out of the class if i make 2 methods change in one method will reflect in the other method so during encapsulation make the variable `private int abc;`  private for using getter and setter so nobody will be able to just change it by just calling b1.id = 20;
+
+getter name --> to get name
+
+setter name --> to set name
+
+
+```java
+public class Cust {
+
+        private int id;
+
+        private String name;
+
+        private String address;
+
+  
+
+        public void setInfo(int id, String name, String address)
+
+        {
+
+            this.id = id;
+
+            this.name = name;
+
+            this.address = address;
+
+        }
+
+        public int getId(){
+
+            return id;
+
+        }
+
+        public String getName(){
+
+            return name;
+
+        }
+
+        public String getAdderss(){
+
+            return address;
+
+        }
+
+    }
+```
+
+
+```java
+public class Manager {
+
+  
+
+    public static void main(String[] args) {
+
+        Cust c1 = new Cust();  
+
+        c1.setInfo(123,"appu","kahsda");
+
+        System.out.println(c1.getId());
+
+  
+
+    }
+
+}
+```
+
+so for constructor we have to give all the values to set it initially else there will be error
+if we are using setter we have the option to skip the values
+
+```java
+public class Customer {
+
+    private int id;
+
+    private String name;
+
+    private String address;
+
+  
+
+    public void setInfo(int id, String name, String address) {
+
+        this.id = id;
+
+        this.name = name;
+
+        this.address = address;
+
+    }
+
+  
+
+    public int getId() {
+
+        return id;
+
+    }
+
+  
+
+    public String getName() {
+
+        return name;
+
+    }
+
+  
+
+    public String getAddress() {
+
+        return address;
+
+    }
+
+}
+```
+
+```java
+public class Manager {
+
+  
+
+    public static void main(String[] args) {
+
+    Customer c1 = new Customer();
+
+        c1.setInfo(123,"appu","kahsda");
+
+        System.out.println(c1.getId());
+
+  
+
+    }
+
+}
+```
+
+```java
+public class Cust {
+    private int id;
+    private String name;
+    private String address;
+    private static String company = "Sjhsjjksd";
+
+
+    public Cust() {
+        System.out.println("Deafult constructor");
+    }
+
+    public Cust(int id, String name, String address) {
+        this.id = id;
+        this.name = name;
+        this.address = address;
+    }
+
+    public void setInfo(int id,String name, String address) {
+        this.id = id;
+        this.name = name;
+        this.address = address;
+
+    }
+
+    public int getId() {
+        return id;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public String getAddress() {
+        return address;
+    }
+
+    public static String getCompany() {
+        return company;
+    }
+}
+
+
+
+
+=========================================================
+
+
+
+public class Mang1 {
+    public static void main(String[] args) {
+        Cust c1 = new Cust();
+        
+        c1.setInfo(1,"sddsds",  "dsahshdjhsjnull");
+        System.out.println(c1.getAddress());
+        Cust c2 = new Cust(1,"shivam","DSDSAdas");
+        System.out.println("ID is "+ c2.getId() + " name is " + c2.getName()+ " address is " + c2.getAddress());
+        System.out.println(Cust.getCompany());
+    }
+}
+
+```
+
+
+# Inheritance
+
+
+
+## Constructor Behavior In Inheritance
+
+what is a constructor
+what is a super statement and what is 
+when can we write a super 
+and when can we ignore the super
+
+```java
+
+```
+
+ambiguity why java doesn't support multiple inheritance
+
 

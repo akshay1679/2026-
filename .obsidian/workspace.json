@@ -4,39 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "6bbda70490c8b12f",
+        "id": "cc890d875f53c72b",
         "type": "tabs",
         "children": [
           {
-            "id": "0641331839b4011e",
+            "id": "fb2cf67d67e6c03f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Identity.md",
-                "mode": "source",
+                "file": "Intership/Cyber_Gurukul_Deloitte/SDI 22_01_2026.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Identity"
+              "title": "SDI 22_01_2026"
             }
           },
           {
-            "id": "b7c0c578c9ca3517",
+            "id": "2461186bce032239",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intership/Cyber_Gurukul_Deloitte/SDI 27_01_2026.md",
+                "file": "Intership/Cyber_Gurukul_Deloitte/SDI 29_01_2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SDI 27_01_2026"
+              "title": "SDI 29_01_2026"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a7afa5ab8a0baa9e",
@@ -206,54 +204,54 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b7c0c578c9ca3517",
+  "active": "fb2cf67d67e6c03f",
   "lastOpenFiles": [
+    "Quick Recap/Java ｡🇯‌🇸‌.md",
+    "Quick Recap/java MCQ.md",
+    "Intership/Cyber_Gurukul_Deloitte/SDI 29_01_2026.md",
+    "Intership/Cyber_Gurukul_Deloitte/SDI 28_01_2026.md",
+    "Intership/Cyber_Gurukul_Deloitte/SDI 27_01_2026.md",
+    "Excalidraw/Drawing 2026-01-29 10.19.25.excalidraw.md",
+    "data_types_in_java.webp",
+    "Excalidraw/Drawing 2026-01-25 07.55.37.excalidraw.md",
+    "Quick Recap/Python 🐍.md",
+    "20240205_What_Are_The_18_CIS_Controls_In_Version_8_Inline_Graphic_1_c65c425a82.webp",
+    "ABAC.md",
+    "Daily Notes/2025-12-31.md",
+    "rogue access point.md",
+    "Man in the middle attack MITM.md",
+    "Dos.md",
+    "loadbalencer.md",
+    "Intership/Cyber_Gurukul_Deloitte/_Support_files/hacker Types.md",
+    "Intership/Cyber_Gurukul_Deloitte/_Support_files/ngzzw.md",
+    "Intership/Cyber_Gurukul_Deloitte/_Support_files/Insider Threats.md",
+    "Intership/Cyber_Gurukul_Deloitte/SDI 23_01_2026.md",
+    "Intership/Cyber_Gurukul_Deloitte/_Support_files/DPDPA.md",
+    "Intership/Cyber_Gurukul_Deloitte/_Support_files/PCIDSS.md",
+    "Intership/Cyber_Gurukul_Deloitte/_Support_files/PIA.md",
+    "Intership/Cyber_Gurukul_Deloitte/SDI 22_01_2026.md",
+    "location based accessed control.md",
     "Authorization.md",
     "Identity.md",
-    "Intership/Cyber_Gurukul_Deloitte/SDI 29_01_2026.md",
-    "Intership/Cyber_Gurukul_Deloitte/SDI 23_01_2026.md",
-    "Intership/Cyber_Gurukul_Deloitte/_Support_files/hacker Types.md",
-    "Intership/Cyber_Gurukul_Deloitte/_Support_files/suicidal hacker.md",
-    "Intership/Cyber_Gurukul_Deloitte/_Support_files/black hat.md",
-    "Authentication.md",
+    "Rule based access control.md",
+    "Intership/Cyber_Gurukul_Deloitte/Access Control.pdf",
+    "Intership/Cyber_Gurukul_Deloitte/Unconfirmed 339790.crdownload",
     "Pasted image 20260129121929.png",
     "Pasted image 20260129121759.png",
-    "Biometric authentication.md",
-    "Intership/Cyber_Gurukul_Deloitte/SDI 22_01_2026.md",
-    "__Notes & To do/To Do List.md",
-    "__Notes & To do/notes.md",
-    "Intership/Cyber_Gurukul_Deloitte/__Backbone SDI.md",
-    "Password.md",
     "Pasted image 20260129103236.png",
     "users.webp",
-    "Excalidraw/token authentication system.excalidraw.md",
-    "Excalidraw/Drawing 2026-01-29 10.19.25.excalidraw.md",
-    "Audit Log Management.md",
-    "Quick Recap/Java ｡🇯‌🇸‌.md",
-    "iot.md",
-    "iot.sync-conflict-20260128-100621-K6NHIRD.md",
-    "Intership/Cyber_Gurukul_Deloitte/SDI 28_01_2026.md",
-    "Continuous Vulnerability Management.md",
-    "Account Management.md",
-    "Access Control Management.md",
-    "Secure Configuration of Enterprise Assets and Software.md",
-    "Data Protection.md",
-    "20240205_What_Are_The_18_CIS_Controls_In_Version_8_Inline_Graphic_1_c65c425a82.webp",
     "Pasted image 20260128120900.png",
     "Pasted image 20260128120752.png",
     "Pasted image 20260128115355.jpg",
     "~syncthing~iot.sync-conflict-20260128-100621-K6NHIRD.md.tmp",
     "~syncthing~Dlp.md.tmp",
     "implementation_961b5d82-f23a-470b-9648-758a89fa5f19_600x600.webp",
-    "Pasted image 20260128094514.png",
     "Intership/Cyber_Gurukul_Deloitte/Speaking Skills",
     "Network",
     "OS",
     "Quick Recap/_Support_files",
     "__Notes & To do",
     "Intership/Cyber_Gurukul_Deloitte/_Case study",
-    "Excalidraw",
-    "Intership/Cyber_Gurukul_Deloitte/_Support_files",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "sem_1/Untitled.canvas",

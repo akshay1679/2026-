@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intership/Cyber_Gurukul_Deloitte/SDI 29_01_2026.md",
+                "file": "Quick Recap/Java ｡🇯‌🇸‌.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SDI 29_01_2026"
+              "title": "Java ｡🇯‌🇸‌"
             }
           }
         ]
@@ -169,10 +169,19 @@
   },
   "active": "af018c103591b3fa",
   "lastOpenFiles": [
+    "Intership/Cyber_Gurukul_Deloitte/_Case study/Case Study Aarup deepfake fraud.md",
+    "Intership/Cyber_Gurukul_Deloitte/SDI 23_01_2026.md",
+    "ABAC.md",
+    "location based accessed control.md",
+    "Time based access control.md",
+    "Rule based access control.md",
+    "Intership/Cyber_Gurukul_Deloitte/Access Control.pdf",
+    "Intership/Cyber_Gurukul_Deloitte/_Support_files/PIA.md",
+    "Intership/Cyber_Gurukul_Deloitte/SDI 22_01_2026.md",
+    "Intership/Cyber_Gurukul_Deloitte/SDI 29_01_2026.md",
     "authentication.md",
     "Identity.md",
     "Quick Recap/Java ｡🇯‌🇸‌.md",
-    "Intership/Cyber_Gurukul_Deloitte/SDI 22_01_2026.md",
     "Intership/Cyber_Gurukul_Deloitte/SDI 28_01_2026.md",
     "Intership/Cyber_Gurukul_Deloitte/Speaking Skills/Sentence framing Day 1.md",
     "rogue access point.md",
@@ -186,14 +195,6 @@
     "Dos.md",
     "availability.md",
     "redundency.md",
-    "Integrity.md",
-    "Hashing.md",
-    "confidentiality.md",
-    "access control.md",
-    "secure disposal of data.md",
-    "role based access control.md",
-    "encription.md",
-    "Data in transit.md",
-    "Data in rest.md"
+    "Integrity.md"
   ]
 }

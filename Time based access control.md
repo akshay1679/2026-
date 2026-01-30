@@ -1,0 +1,1 @@
+**Time-based access control** is a security method where **access is allowed or denied based on time rules** — not just _who_ you are or _what_ traffic you send, but **when** you try to access it

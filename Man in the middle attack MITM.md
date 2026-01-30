@@ -6,6 +6,7 @@ wire tapping or phone tapping
 A **man-in-the-middle (MITM) attack** is a type of cyberattack where an attacker secretly sits **between two parties who think they’re communicating directly**, and **intercepts, reads, or alters** the data passing between them.
 
 ### <mark style="background: #ABF7F7A6;">How it works</mark> 
+
 1. You connect to a website, app, or Wi-Fi network.
 2. The attacker positions themselves in the middle.
 3. They can:

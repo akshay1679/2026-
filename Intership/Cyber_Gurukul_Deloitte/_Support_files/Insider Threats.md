@@ -16,11 +16,8 @@ This _is_ <mark style="background: #ABF7F7A6;">intentional harm</mark>.
 Examples:
 
 - An employee steals data to sell it
-    
 - A disgruntled worker deletes files on purpose
-    
 - Someone helps an **APT (Advanced Persistent Threat)** by giving access or credentials
-    
 
 👉 **Intent:** Yes, harmful on purpose
 
