@@ -1,4 +1,4 @@
-the access control list --> An **Access Control List (ACL) on a switch** is a set of rules that **controls traffic** by deciding **which packets are allowed or denied** as they pass through the switch.
+ the access control list --> An **Access Control List (ACL) on a switch** is a set of rules that **controls traffic** by deciding **which packets are allowed or denied** as they pass through the switch.
 
 ![[Access Control.pdf]]
 

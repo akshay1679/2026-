@@ -2,7 +2,7 @@ The **NIST Cybersecurity Framework (CSF)** is a widely used, voluntary framework
 
 
 
-1. **<mark style="background: #D2B3FFA6;">Identify</mark>** – Know your assets, risks, and dependencies  
+1. **<mark style="background: #D2B3FFA6;">Identify</mark>** – Know your [[Asset]], risks, and dependencies  
     _Asset management, risk assessment, governance_
 
 2. **<mark style="background: #D2B3FFA6;">Protect</mark>** – Put safeguards in place  
@@ -16,3 +16,7 @@ The **NIST Cybersecurity Framework (CSF)** is a widely used, voluntary framework
 
 5. **<mark style="background: #D2B3FFA6;">Recover</mark>** – Restore and improve  
     _Recovery planning, lessons learned_
+
+6. <mark style="background: #D2B3FFA6;">Govern</mark> - Establish and monitor the organization's
+	cybersecurity risk management strategy, expectations
+	& policy

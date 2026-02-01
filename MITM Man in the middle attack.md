@@ -20,6 +20,7 @@ A **man-in-the-middle (MITM) attack** is a type of cyberattack where an attacker
 
 `Client  ⇄  Attacker  ⇄  Server`
 
+
 - Client thinks attacker = server
 - Server thinks attacker = client
 - Attacker relays traffic while observing or modifying it

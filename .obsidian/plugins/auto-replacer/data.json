@@ -1,0 +1,17 @@
+{
+  "rules": [
+    {
+      "name": "Right Arrow",
+      "key": "1",
+      "regex": {
+        "pattern": "-->$",
+        "flags": "g"
+      },
+      "transform": "() => \"→\"",
+      "ignoreFrontmatter": true,
+      "ignoreTildeBlocks": true,
+      "ignoreBackQuoteBlocks": true,
+      "ignoreTitles": true
+    }
+  ]
+}
