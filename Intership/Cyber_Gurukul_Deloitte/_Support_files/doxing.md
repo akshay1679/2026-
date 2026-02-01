@@ -1,1 +1,1 @@
-stealind the finantial info of 
+stealing the financial info of 

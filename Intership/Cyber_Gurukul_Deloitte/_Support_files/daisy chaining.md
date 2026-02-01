@@ -1,1 +1,1 @@
-make a chain of compremised systemm
+make a chain of compromised systems.

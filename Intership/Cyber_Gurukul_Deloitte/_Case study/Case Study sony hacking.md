@@ -30,7 +30,7 @@ then they dropped a malware inside of it
 
 because that 3.5 lack system got infected
 
-[[botnet]]
+[[Botnet]]
 
 [[c&c]]
 

@@ -7,11 +7,11 @@ cypher --> "JGNND"
 so if we subtract -2 from the JGNND then "-"  is the encryption algo and 2 is the "key"
 
 
-[[Data in use]]
-[[Data in rest]]
-[[Data in transit]]
+[[Data In Use]]
+[[Data In Rest]]
+[[Data In Transit]]
 
-[[access control]] --> we will be able to define the privilages
+[[Access Control]] --> we will be able to define the privilages
 
 
 

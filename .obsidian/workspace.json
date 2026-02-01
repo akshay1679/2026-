@@ -10,32 +10,61 @@
           {
             "id": "fb2cf67d67e6c03f",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intership/Cyber_Gurukul_Deloitte/SDI 22_01_2026.md",
+                "file": "Intership/Cyber_Gurukul_Deloitte/__Backbone SDI.md",
                 "mode": "preview",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "SDI 22_01_2026"
+              "title": "__Backbone SDI"
             }
           },
           {
-            "id": "2461186bce032239",
+            "id": "3d0a1b175f2e1707",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Intership/Cyber_Gurukul_Deloitte/week 1 and 2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "week 1 and 2"
+            }
+          },
+          {
+            "id": "83d72b8149182ca3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intership/Cyber_Gurukul_Deloitte/SDI 29_01_2026.md",
+                "file": "Intership/Cyber_Gurukul_Deloitte/SDI 27_01_2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SDI 29_01_2026"
+              "title": "SDI 27_01_2026"
+            }
+          },
+          {
+            "id": "267f3ba8dcf53862",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NIST Cyber Security Framework.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NIST Cyber Security Framework"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -204,54 +233,54 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fb2cf67d67e6c03f",
+  "active": "267f3ba8dcf53862",
   "lastOpenFiles": [
-    "Quick Recap/Java ｡🇯‌🇸‌.md",
-    "Quick Recap/java MCQ.md",
-    "Intership/Cyber_Gurukul_Deloitte/SDI 29_01_2026.md",
-    "Intership/Cyber_Gurukul_Deloitte/SDI 28_01_2026.md",
+    "NIST Cyber Security Framework.md",
     "Intership/Cyber_Gurukul_Deloitte/SDI 27_01_2026.md",
-    "Excalidraw/Drawing 2026-01-29 10.19.25.excalidraw.md",
-    "data_types_in_java.webp",
-    "Excalidraw/Drawing 2026-01-25 07.55.37.excalidraw.md",
-    "Quick Recap/Python 🐍.md",
-    "20240205_What_Are_The_18_CIS_Controls_In_Version_8_Inline_Graphic_1_c65c425a82.webp",
-    "ABAC.md",
-    "Daily Notes/2025-12-31.md",
-    "rogue access point.md",
-    "Man in the middle attack MITM.md",
-    "Dos.md",
-    "loadbalencer.md",
-    "Intership/Cyber_Gurukul_Deloitte/_Support_files/hacker Types.md",
-    "Intership/Cyber_Gurukul_Deloitte/_Support_files/ngzzw.md",
-    "Intership/Cyber_Gurukul_Deloitte/_Support_files/Insider Threats.md",
+    "Intership/Cyber_Gurukul_Deloitte/week 1 and 2.pdf",
+    "Intership/Cyber_Gurukul_Deloitte/_Support_files/Asset.md",
+    "non-repudiation.md",
+    "availability.md",
+    "redundancy.md",
+    "Integrity.md",
+    "Confidentiality.md",
+    "Hashing.md",
+    "Encryption.md",
+    "Access Control.md",
+    "secure disposal of data.md",
+    "steganography.md",
+    "role based access control.md",
+    "Intership/Cyber_Gurukul_Deloitte/__Backbone SDI.md",
+    "Data In Use.md",
+    "Data In Rest.md",
+    "Data In Transit.md",
     "Intership/Cyber_Gurukul_Deloitte/SDI 23_01_2026.md",
-    "Intership/Cyber_Gurukul_Deloitte/_Support_files/DPDPA.md",
-    "Intership/Cyber_Gurukul_Deloitte/_Support_files/PCIDSS.md",
-    "Intership/Cyber_Gurukul_Deloitte/_Support_files/PIA.md",
-    "Intership/Cyber_Gurukul_Deloitte/SDI 22_01_2026.md",
-    "location based accessed control.md",
-    "Authorization.md",
-    "Identity.md",
-    "Rule based access control.md",
-    "Intership/Cyber_Gurukul_Deloitte/Access Control.pdf",
-    "Intership/Cyber_Gurukul_Deloitte/Unconfirmed 339790.crdownload",
+    "Intership/Cyber_Gurukul_Deloitte/_Support_files/Botnet.md",
+    "Dos.md",
+    "Intership/Cyber_Gurukul_Deloitte/_Support_files/Phishing.md",
+    "Intership/Cyber_Gurukul_Deloitte/_Support_files/Malware.md",
+    "Intership/Cyber_Gurukul_Deloitte/_Support_files/Ransomwhere.md",
+    "Intership/Cyber_Gurukul_Deloitte/_Support_files/Virus.md",
+    "Intership/Cyber_Gurukul_Deloitte/_Support_files/Worm.md",
+    "Pasted image 20260201081239.png",
+    "Pasted image 20260201081234.png",
+    "Screenshot 2026-01-30 122857.png",
+    "Pasted image 20260130102411.png",
     "Pasted image 20260129121929.png",
     "Pasted image 20260129121759.png",
     "Pasted image 20260129103236.png",
-    "users.webp",
     "Pasted image 20260128120900.png",
     "Pasted image 20260128120752.png",
     "Pasted image 20260128115355.jpg",
+    "Intership/Cyber_Gurukul_Deloitte/Access Control.pdf",
+    "Intership/Cyber_Gurukul_Deloitte/Unconfirmed 339790.crdownload",
     "~syncthing~iot.sync-conflict-20260128-100621-K6NHIRD.md.tmp",
     "~syncthing~Dlp.md.tmp",
-    "implementation_961b5d82-f23a-470b-9648-758a89fa5f19_600x600.webp",
     "Intership/Cyber_Gurukul_Deloitte/Speaking Skills",
     "Network",
     "OS",
     "Quick Recap/_Support_files",
     "__Notes & To do",
-    "Intership/Cyber_Gurukul_Deloitte/_Case study",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "sem_1/Untitled.canvas",

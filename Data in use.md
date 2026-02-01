@@ -1,1 +1,1 @@
-SED self encryption Drive --> done by samsung
+SED self encryption Drive --> done by Samsung

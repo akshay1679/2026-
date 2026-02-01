@@ -980,7 +980,311 @@ add(5, 3);
     
 
 ---
+---
+---
 
+# <mark style="background: #FFB86CA6;">Java Methods</mark>  static void myMethod()
+
+a block of code which only runs when it is called
+pass data, known as parameters, into a method.
+Methods are used to perform certain actions, and they are also known as **functions**.
+
+<mark style="background: #FFB8EBA6;">how it comes</mark>
+
+<mark style="background: #FF5582A6;">class</mark> --> <mark style="background: #FF5582A6;">method</mark>
+
+```java
+public class Main {
+  static void myMethod() {
+    // code to be executed
+  }
+}
+```
+
+- `static` <mark style="background: #FF5582A6;">means that the method belongs to the Main class and not an object of the Main class</mark>. 
+- `void` <mark style="background: #FF5582A6;">means</mark> that this method <mark style="background: #FF5582A6;">does not have a return value</mark>. 
+
+## Call a Method
+
+```java
+public class Main {
+  static void myMethod() {
+    System.out.println("I just got executed!");
+  }
+
+  public static void main(String[] args) {
+    myMethod();
+  }
+}
+```
+
+<mark style="background: #CACFD9A6;">static void myMethod()</mark>  --> how method is defined <mark style="background: #FF5582A6;"> important </mark>
+
+## Java Method Parameters
+
+```java
+public class Main {
+  static void myMethod(String fname) {
+    System.out.println(fname + " Refsnes");
+  }
+
+  public static void main(String[] args) {
+    myMethod("Liam");
+    myMethod("Jenny");
+    myMethod("Anja");
+  }
+}
+```
+
+
+<mark style="background: #FF5582A6;">When a **parameter** is passed to the method, it is called an **argument**. So, from the example above: `fname` is a **parameter**, while `Liam`, `Jenny` and `Anja` are **arguments**.</mark>
+
+## Java Method Return
+
+```java
+public class Main {
+  // Method that doubles the number
+  static int doubleGame(int x) {
+    return x * 2;
+  }
+
+  public static void main(String[] args) {
+    for (int i = 1; i <= 5; i++) {
+      System.out.println("Double of " + i + " is " + doubleGame(i));
+    }
+  }
+}
+```
+
+## <mark style="background: #FFB86CA6;">Method Overloading</mark>
+
+<mark style="background: #FFB8EBA6;">multiple methods can have the same name with different parameters:</mark>
+
+```java
+int myMethod(int x)
+float myMethod(float x)
+double myMethod(double x, double y)
+```
+
+```java
+public class Main{
+    static void apple(){
+        System.err.println("apple apple");
+
+    static void apple(int m){
+        System.out.println("apple apple apple");
+    }
+  
+    public static void main(String[] args) {
+        apple();
+        apple(5);
+    }
+}
+```
+
+## <mark style="background: #ADCCFFA6;">imp program</mark>
+
+```java
+public class Main {
+  static int plusMethod(int x, int y) {
+    return x + y;
+  }
+  
+  static double plusMethod(double x, double y) {
+    return x + y;
+  }
+  
+  public static void main(String[] args) {
+    int myNum1 = plusMethod(8, 5);
+    double myNum2 = plusMethod(4.3, 6.26);
+    System.out.println("int: " + myNum1);
+    System.out.println("double: " + myNum2);
+  }
+}
+```
+
+## Java Scope
+
+In Java, variables are only accessible <mark style="background: #D2B3FFA6;">inside the region where they are created</mark>. This is called **scope**.
+
+## Block Scope
+
+```java
+public class Main {
+  public static void main(String[] args) {
+
+    // Code here CANNOT use x
+
+    { // This is a block
+
+      // Code here CANNOT use x
+
+      int x = 100;
+
+      // Code here CAN use x
+      System.out.println(x);
+
+    } // The block ends here
+
+    // Code here CANNOT use x
+
+  }
+}
+```
+
+
+# Java OOP # <mark style="background: #FFB8EBA6;">Java OOP</mark> # <mark style="background: #BBFABBA6;">Java OOP</mark>  # <mark style="background: #ADCCFFA6;">Java OOP</mark>
+
+## Java - What are Classes and Objects?
+
+
+
+| ==class== | ==objects== |
+| --------- | ----------- |
+| Fruit     | Apple       |
+|           | Banana      |
+|           | Mango       |
+# IMPORTANT
+
+So, a class is a <mark style="background: #FF5582A6;">template</mark> for objects, and an <mark style="background: #FF5582A6;">object is an instance</mark> of a class.
+
+<mark style="background: #D2B3FFA6;">When the individual objects are created, they inherit all the variables and methods from the class.</mark>
+
+
+A class should always start with an uppercase first letter, and that the name of the java file should match the class name.
+
+## Create an Object
+
+In Java, an object is created from a class. We have already created the class named `Main`, so now we can use this to create objects.
+
+```java
+public class Main{
+    static void good(){
+        System.out.println("good boy");
+    }
+    public static void main(String[] args) {
+        Main m1 = new Main();
+        m1.good();
+    }
+}
+```
+
+
+## Using Multiple Classes
+
+can also create an object of a class and access it in another class.
+
+Remember that the name of the java file should match the class name.
+
+Main.java
+
+```java
+public class Main {
+  int x = 5;
+}
+```
+
+Second.java
+
+```java
+class Second {
+  public static void main(String[] args) {
+    Main myObj = new Main();
+    System.out.println(myObj.x);
+  }
+}
+```
+
+## Java Class Attributes
+
+In the previous chapter, we used the term "**variable**" for `x` in the example (as shown below).
+In Java,<mark style="background: #FFF3A3A6;"> variables declared inside a class are called "<mark style="background: #FFB8EBA6;">attributes</mark>"</mark>.
+<mark style="background: #ABF7F7A6;">attributes are variables that belong to a class</mark>:
+
+
+```java
+public class Main{
+
+    int m = 20;
+
+    public static void main(String[] args) {
+
+        Main m1 = new Main();
+
+        System.out.println(m1.m);
+
+    }
+
+}
+```
+
+==so here m is the attribute==
+
+also can modify attribute values
+
+### Attribute Overriding
+
+```java
+public class Main{
+    int m = 20;
+    public static void main(String[] args) {
+        Main m1 = new Main();
+        System.out.println(m1.m);
+        m1.m = 50;
+        System.out.println(m1.m);
+    }
+}
+```
+
+this is called <mark style="background: #FF5582A6;">attribute overriding</mark>
+if we don't want to do that we can  declare the attribute as <mark style="background: #FF5582A6;">final</mark>
+
+###  Multiple Objects
+
+```java
+public class Main{
+    int m = 20;
+    public static void main(String[] args) {
+        Main m1 = new Main();
+        Main m2 = new Main();
+        System.out.println(m1.m);
+        m1.m = 50;
+        System.out.println(m1.m);
+        System.out.println(m2.m);
+    }
+}
+```
+
+```java
+public class Main{
+    static void Speed(int m){
+        System.out.println("speed is "+m);
+    }
+    static void Acce(int m){
+        System.out.println("Acce "+m);
+    }
+    public static void main(String[] args) {
+        Main m1 = new Main();
+        System.out.print("the ");
+        m1.Speed(20);
+    }
+}
+```
+
+<mark style="background: #FFB8EBA6;">The dot (.) is used to access the object's attributes and methods.</mark>
+
+## Java Constructors
+
+A constructor in Java is a **special method** that is used to initialize objects.
+
+The constructor is called when an object of a class is created.
+
+
+
+
+---
+---
+----
 ## Quick check (your turn 👇)
 
 Look at this code:
@@ -1225,5 +1529,155 @@ and when can we ignore the super
 ```
 
 ambiguity why java doesn't support multiple inheritance
+constructor will have the class name
 
+---
+
+## Method overloading 
+
+eg:
+
+```java
+public class ManagerOverloading {
+    public static void main(String[] args) {
+        A a1 = new A();
+        a1.test();
+    }
+}
+```
+
+```java
+public class A {
+    A(){
+  
+    }
+    void test(){
+        System.out.println("first one");
+    }
+    void test(int m){
+        System.out.println("Second one");
+    }
+}
+```
+
+
+---
+
+constructor overloading and method over loading in single code
+
+```java
+
+```
+
+
+<mark style="background: #ADCCFFA6;">widening</mark> the child is going to the parent 
+<mark style="background: #ADCCFFA6;">narrowing</mark> the parent is going to the child
+
+
+## Java widening vs narrowing.
+
+In **Java inheritance**, your notes are basically right—this is about **casting between child and parent classes**.
+
+### 🔹 Widening (Upcasting)
+
+**Child → Parent**
+
+- Happens **automatically**
+    
+- Always **safe**
+    
+- You lose access to child-specific methods
+    
+
+```java
+class Parent {
+    void show() {
+        System.out.println("Parent");
+    }
+}
+
+class Child extends Parent {
+    void play() {
+        System.out.println("Child");
+    }
+}
+
+Parent p = new Child(); // widening (upcasting)
+p.show();               // OK
+// p.play();            // ❌ not accessible
+```
+
+👉 The reference is **Parent**, but the object is **Child**.
+
+---
+
+### 🔹 Narrowing (Downcasting)
+
+**Parent → Child**
+
+- Must be done **explicitly**
+    
+- Can cause **ClassCastException** if wrong
+    
+- Use `instanceof` to stay safe
+    
+
+```java
+Parent p = new Child();
+
+Child c = (Child) p;   // narrowing (downcasting)
+c.play();              // OK
+```
+
+⚠️ Unsafe case:
+
+```java
+Parent p = new Parent();
+Child c = (Child) p;   // ❌ Runtime error
+```
+
+✅ Safe version:
+
+```java
+if (p instanceof Child) {
+    Child c = (Child) p;
+}
+```
+
+---
+
+### 🧠 One-line memory trick
+
+- **Widening** → child → parent → _safe, automatic_
+- **Narrowing** → parent → child → _explicit, risky_ 
+
+If you want, I can also explain this with **real-world analogies** or **memory diagrams** 👀
+we cannot override the static method
+
+
+
+# NOTES
+
+- else if
+- `if (username.equals("admin") && password.equals("java123"))`
+- ```int[] transactions = {2000, -500, -1000, 3000, -700}; for (int i = transactions.length - 1; i >= 0; i--) { System.out.println("Transaction: " + transactions[i]); }
+  ```
+� � Challenge 1. Check if a number is Prime 2. Print Fibonacci series 3. Find factorial of a number 4. Print numbers in reverse (10 → 1)
+
+`Arrays.sort(marks);`
+
+```java
+public class Example4 {
+    static boolean isEven(int number) {
+        return number % 2 == 0;
+    }
+
+    public static void main(String[] args) {
+        System.out.println(Example4.isEven(10)); // true
+        System.out.println(Example4.isEven(7)); // false
+    }
+}
+```
+
+8⃣ Method with Array Parameter
 

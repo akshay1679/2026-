@@ -4,3 +4,4 @@
 
 - **Cardholder data**: card number (PAN), expiry date, cardholder name
 - **Sensitive authentication data**: CVV/CVC, PINs (this must _never_ be stored)
+

@@ -1,0 +1,1 @@
+A **payload** is **what the attacker delivers or executes _after_ an exploit succeeds**.
