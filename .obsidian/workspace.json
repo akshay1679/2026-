@@ -29,16 +29,98 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "owasp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "owasp"
+            }
+          },
+          {
+            "id": "13082b8c41ba963b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OWASP Top Ten.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OWASP Top Ten"
+            }
+          },
+          {
+            "id": "40d073a81d4e0921",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SolarWinds Supply Chain Attack.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SolarWinds Supply Chain Attack"
+            }
+          },
+          {
+            "id": "10a10628ea3e3749",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/WebsiteVSWebapplication.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "WebsiteVSWebapplication.excalidraw"
+            }
+          },
+          {
+            "id": "16cecf93aceb74fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "internship/Cyber_Gurukul_Deloitte/Week 3/SDI 02_02_2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SDI 02_02_2026"
+            }
+          },
+          {
+            "id": "6a7440ed255eac74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "internship/Cyber_Gurukul_Deloitte/Speaking Skills/SQL injection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SQL injection"
+            }
+          },
+          {
+            "id": "1c5f82dc5ae8e1e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PASTA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PASTA"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -207,16 +289,34 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a39afb391995b256",
+  "active": "6a7440ed255eac74",
   "lastOpenFiles": [
+    "internship/Cyber_Gurukul_Deloitte/Week 3/SDI 02_02_2026.md",
+    "Excalidraw/WebsiteVSWebapplication.excalidraw.md",
+    "SolarWinds Supply Chain Attack.md",
+    "OWASP Top Ten.md",
+    "owasp.md",
+    "internship/Cyber_Gurukul_Deloitte/__Backbone SDI.md",
+    "PASTA.md",
+    "internship/Cyber_Gurukul_Deloitte/Speaking Skills/SQL injection.md",
+    "STRIDE.md",
+    "Pasted image 20260202122617.png",
+    "Pasted image 20260202120437.png",
+    "Pasted image 20260202120421.png",
+    "Supply Chain Attack.md",
+    "Pasted image 20260202102721.png",
+    "A02_2025 Security Misconfiguration.md",
+    "corrective layers.md",
+    "cookies.md",
+    "DAST.md",
+    "Pasted image 20260202094710.png",
+    "SAST.md",
+    "README.md",
     "Quick Recap/_Support_files/☠️ Read Number From Standard Input.md",
     "Quick Recap/_Support_files/☠️ Get Input from the User.md",
     "Quick Recap/Java.md",
-    "README.md",
     "internship/Cyber_Gurukul_Deloitte/_Support_files/sql-injection.svg",
     "internship/Cyber_Gurukul_Deloitte/_Support_files/Screenshot 2026-01-30 122857.png",
-    "internship/Cyber_Gurukul_Deloitte/__Backbone SDI.md",
-    "internship/Cyber_Gurukul_Deloitte/Week 3/SDI 02_02_2026.md",
     "internship/Cyber_Gurukul_Deloitte/_Support_files/Access Control.pdf",
     "internship/Cyber_Gurukul_Deloitte/Week 1 & 2",
     "internship/Cyber_Gurukul_Deloitte/Week 3",
@@ -232,25 +332,7 @@
     "internship/Cyber_Gurukul_Deloitte/Speaking Skills/zero day vulnerability.md",
     "internship/Cyber_Gurukul_Deloitte/Speaking Skills/Pasted image 20260128094514.png",
     "internship/Cyber_Gurukul_Deloitte/Speaking Skills/Pasted image 20260128115355.jpg",
-    "internship/Cyber_Gurukul_Deloitte/Speaking Skills/Pasted image 20260128120752.png",
-    "internship/Cyber_Gurukul_Deloitte/Speaking Skills/Pasted image 20260128120900.png",
-    "internship/Cyber_Gurukul_Deloitte/Speaking Skills/Pasted image 20260129103236.png",
-    "internship/Cyber_Gurukul_Deloitte/Speaking Skills/Pasted image 20260129121759.png",
-    "internship/Cyber_Gurukul_Deloitte/Speaking Skills/Pasted image 20260129121929.png",
     "internship/Cyber_Gurukul_Deloitte/_Support_files/week 1 and 2.pdf",
-    "internship/Cyber_Gurukul_Deloitte/Speaking Skills/Authorization.md",
-    "internship/Cyber_Gurukul_Deloitte/Speaking Skills/Identity.md",
-    "internship/Cyber_Gurukul_Deloitte/Speaking Skills/Authentication.md",
-    "internship/Cyber_Gurukul_Deloitte/Week 1 & 2/SDI 28_01_2026.md",
-    "internship/Cyber_Gurukul_Deloitte/Speaking Skills/Secure Configuration of Enterprise Assets and Software.md",
-    "internship/Cyber_Gurukul_Deloitte/Speaking Skills/Data Protection.md",
-    "internship/Cyber_Gurukul_Deloitte/Speaking Skills/Inventory and Control of Software Assets.md",
-    "internship/Cyber_Gurukul_Deloitte/Speaking Skills/Shadow.md",
-    "internship/Cyber_Gurukul_Deloitte/Speaking Skills/NIST Cyber Security Framework.md",
-    "internship/Cyber_Gurukul_Deloitte/Speaking Skills/calculation for risk assessment.md",
-    "internship/Cyber_Gurukul_Deloitte/Speaking Skills/Single Loss Expectancy (SLE).md",
-    "internship/Cyber_Gurukul_Deloitte/Week 1 & 2/SDI 27_01_2026.md",
-    "internship/Cyber_Gurukul_Deloitte/Speaking Skills/SQL injection.md",
     "Intership/Cyber_Gurukul_Deloitte/Unconfirmed 339790.crdownload",
     "~syncthing~iot.sync-conflict-20260128-100621-K6NHIRD.md.tmp",
     "~syncthing~Dlp.md.tmp",

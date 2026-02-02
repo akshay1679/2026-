@@ -149,3 +149,23 @@ SQL injection can allow attackers to:
     
 
 ---
+
+
+# <mark style="background: #FFB8EBA6;">STEPS for SQL injection</mark>
+
+1. breaking in the developers id code --> id = 1 --> "1" --> id = 1' --> so for compiler it will change to --> id = "1' "
+	1. this will help us to identify which sql server is using by the website like MYSQL
+2. now we need to balance the query 
+3. to find the number of columns in the database and why we are looking for the number of columns --> if we need to upload our own row we need to know how many columns the there are having so that we can make the new row according to the no of columns --> `group by, order by`  --> 
+
+4. breaking the developer's code -> id=1-> id="1" -> id=1' -> id="1'" ->>> error message
+5. balance the query -> commenting vectors -> showprofile=4' -- -- > showprofile="4" -
+6. find the number of columns -> group by, order by -> showprofile=4' order by 4 -- -
+7. finding the vulnerable column -> union select -> showprofile=4' union select 1,2,3,4 -- -
+8. changing the pointers location --> 
+
+
+https://www.zixem.altervista.org/SQLi/level2.php?showprofile=4
+
+
+
