@@ -6,7 +6,7 @@ Malware often hides as “unknown software,” and outdated apps create vulnerab
 
 **In practice:**
 
-- Allowlist approved software
+- Allow list approved software
     
 - Block or remove unauthorized applications
     
@@ -19,6 +19,6 @@ Malware often hides as “unknown software,” and outdated apps create vulnerab
     
 - Remove unsupported software like old Java versions
 
-[[showdowing]]
+[[Shadow]]
 
 make sure the sftware installed is the genuine one

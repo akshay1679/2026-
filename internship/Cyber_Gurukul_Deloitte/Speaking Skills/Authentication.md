@@ -1,10 +1,10 @@
 
-1. **Something you know** (password / PIN)
-    
-2. **Something you have** (phone, token, key)  --software tokens(OTP) and hardware tokens (nfc card)
-    
-3. **Something you are** (biometrics)
-    
+1. **<mark style="background: #FFF3A3A6;">Something you know</mark>** (password / PIN)
+
+2. **<mark style="background: #FFB86CA6;">Something you have</mark>** (phone, token, key)  --software tokens(OTP) and hardware tokens (nfc card)
+
+3. **<mark style="background: #FFF3A3A6;">Something you are</mark>** (biometrics)
+
 
 e signature in the bank -- map out the how we are putting the signature
 
