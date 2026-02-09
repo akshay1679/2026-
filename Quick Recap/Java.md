@@ -1,4 +1,7 @@
 
+
+
+
 # Java Identifiers
 
 In **Java**, an **identifier** is the **name you give to a program element** so Java can identify it.
@@ -15,8 +18,8 @@ In **Java**, an **identifier** is the **name you give to a program element** so 
 
 -### Rules for Naming Identifiers in Java
 
-1. An identifier can contain **letters (A–Z, a–z), digits (0–9), underscore (_), and <mark style="background: #FF5582A6;">dollar sign ($)</mark>**.
-2. An identifier **must begin with a letter, underscore (_), or <mark style="background: #FF5582A6;">dollar sign ($)</mark>**.
+1. An identifier can contain **letters (A–Z, a–z), digits (0–9), underscore ("__"), and <mark style="background: #FF5582A6;">dollar sign ($)</mark>**.
+2. An identifier **must begin with a letter, underscore ("__"), or <mark style="background: #FF5582A6;">dollar sign ($)</mark>**.
 3. An identifier **<mark style="background: #FF5582A6;">cannot start with a digit</mark>**.
 4. **No spaces** are allowed in an identifier.
 5. **Special characters** like `@`, `#`, `%`, `-` are **not allowed**.
@@ -57,10 +60,12 @@ public class Geeks {
 
 [[Drawing 2026-01-25 07.55.37.excalidraw]]
 
-<mark style="background: #ABF7F7A6;">final keyword </mark> --> 
+<mark style="background: #ABF7F7A6;">final keyword </mark> →
 ```java
 final int MINUTES_PER_HOUR = 60;
 ```
+
+
 
 ---
 ## Java basic program
@@ -287,7 +292,7 @@ public class Main {
 ```
 
 
-` mynum.length`  --> used for getting the <mark style="background: #ABF7F7A6;">length of the array</mark>
+` mynum.length`  → used for getting the <mark style="background: #ABF7F7A6;">length of the array</mark>
 
 
 ### Loop Through an Array with For-Each
@@ -329,7 +334,7 @@ public class Main {
 }
 ```
 
-`for (char i : name.toCharArray()) {`  --> <mark style="background: #ABF7F7A6;"> toCharArray </mark>
+`for (char i : name.toCharArray()) {`  →<mark style="background: #ABF7F7A6;"> toCharArray </mark>
 
 
 usage of for each in multi dimensional array
@@ -492,11 +497,11 @@ https://www.geeksforgeeks.org/java/java-programming-examples/
 | String b = Integer.toString(a); |                                         |
 | ------------------------------- | --------------------------------------- |
 | char b = (char) a;              |                                         |
-| name.length();              --> | to get lngth of string                  |
-| animals.length              --> | to get length of array                  |
+| name.length();              →| to get lngth of string                  |
+| animals.length              →| to get length of array                  |
 | name.toUpperCase();             |                                         |
-| indexOf("akshay")         -->   | this is used for sentence not for array |
-| name.toCharArray()      -->     | get charecters from string              |
+| indexOf("akshay")         →  | this is used for sentence not for array |
+| name.toCharArray()      →    | get charecters from string              |
 ```java
 public class loops {
 
@@ -533,7 +538,7 @@ while(num!= 0)
 *****
 ```
 
-`for(;i<=5;i++)` --> is it correct for a loop
+`for(;i<=5;i++)` →is it correct for a loop
 
 ## Methods
 
@@ -991,7 +996,7 @@ Methods are used to perform certain actions, and they are also known as **funct
 
 <mark style="background: #FFB8EBA6;">how it comes</mark>
 
-<mark style="background: #FF5582A6;">class</mark> --> <mark style="background: #FF5582A6;">method</mark>
+<mark style="background: #FF5582A6;">class</mark> →<mark style="background: #FF5582A6;">method</mark>
 
 ```java
 public class Main {
@@ -1018,7 +1023,7 @@ public class Main {
 }
 ```
 
-<mark style="background: #CACFD9A6;">static void myMethod()</mark>  --> how method is defined <mark style="background: #FF5582A6;"> important </mark>
+<mark style="background: #CACFD9A6;">static void myMethod()</mark>  →how method is defined <mark style="background: #FF5582A6;"> important </mark>
 
 ## Java Method Parameters
 
@@ -1308,9 +1313,9 @@ who  is having an argument and who is not having an argument
 
 what happens if i make an int static inside a clas and then make method out of the class if i make 2 methods change in one method will reflect in the other method so during encapsulation make the variable `private int abc;`  private for using getter and setter so nobody will be able to just change it by just calling b1.id = 20;
 
-getter name --> to get name
+getter name →to get name
 
-setter name --> to set name
+setter name →to set name
 
 
 ```java
@@ -1681,3 +1686,148 @@ public class Example4 {
 
 8⃣ Method with Array Parameter
 
+---
+---
+
+# constant pool and non constant pool
+
+```java
+public class StringHandlink {
+    public static void main(String[] args) {
+        String str = "abc";
+        String str1 = "abc";
+  
+        String str2 = new String("abc");
+        String str3 = new String("abc");
+        System.out.println(str == str1);
+        System.out.println(str2 == str3);
+  
+    }
+}
+```
+
+String buffer → mutable in nature
+
+```java
+public class StringHandlink {
+    public static void main(String[] args) {
+        String str = "abc";
+        String str1 = "abc";
+  
+        String str2 = new String("abc");
+        String str3 = new String("abc");
+        System.out.println(str == str1);
+        System.out.println(str2 == str3);
+        StringBuffer sb = new StringBuffer("hello");
+        StringBuffer sb1 = sb.append("WELCOME");
+        System.out.println(sb);
+        System.out.println(sb1);
+
+    }
+}
+```
+
+the "+" converts byte into a int
+
+## Serialization
+
+# Try except in java
+
+try -- write the code which can generate the exception
+catch → we do write the code which weill execute if exception raised
+throw → to raise the exception
+throws →
+finally →
+
+```java
+        // String str=null;
+        // int x = 10/0;
+		// int i = Integer.parseInt("abc"); //converting string into int
+        // System.out.println(str.length());
+        // System.out.println(x);
+        // System.out.println(i);
+        /*
+
+        try--write the code which can generate exception
+        catch -- we do write the code which will execute if exceptionraised
+        throw - to raise the exception
+        throws - to handle the exception
+        finally - if want to execute the code in every case
+        */
+```
+
+
+only one public class should  be present in one file
+
+```java
+ class Person {
+  private String name; // private = restricted access
+
+  // Getter
+  public String getName() {
+    return name;
+  }
+
+  // Setter
+  public void setName(String newName) {
+    this.name = newName;
+  }
+}
+public class Main {
+    public static void main(String args[])
+    {
+        Person p = new Person();
+        p.setName("apple");
+        
+        System.out.println( p.getName());
+    }
+}
+```
+
+
+**bundling data and the methods that operate on that data together**, while **hiding the internal details** from the outside world
+
+```java
+class Animal {
+    Animal(int a) {
+        System.out.println("The a "+ a);
+    } 
+    
+  public void animalSound() {
+    System.out.println("The animal makes a sound");
+  }
+}
+
+class Dog extends Animal {
+    Dog() {
+        super(10);
+        System.out.println("The d");
+    }
+    
+  public void animalSound() {
+    System.out.println("The dog says: bow wow");
+  }
+}
+
+public class Main {
+  public static void main(String[] args) {
+    Dog myDog = new Dog();
+    // myDog.animalSound();
+  }
+}
+```
+
+
+what is concrete and non concrete
+
+```java
+abstract class Animal {
+    abstract void makeSound();  // non-concrete method
+
+    void sleep() {              // concrete method
+        System.out.println("Sleeping...");
+    }
+}
+```
+
+only abstract method have the ability to define concrete method

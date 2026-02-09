@@ -51,3 +51,21 @@ llo
 ```
 
 
+list 
+- ordered
+- mutable --> 
+- allow duplicates
+```python
+x = "hello"
+
+print(id(x))
+x += "world"
+print(x)
+print(id(x)) # --> me mory address
+```
+
+
+```python
+fruits = ["apple","banana","grapes"]
+```
+`print(",".join(fruits))`  → 

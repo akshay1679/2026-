@@ -11,10 +11,14 @@
             "id": "af018c103591b3fa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "internship/Cyber_Gurukul_Deloitte/Week 3/SDI 02_02_2026.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "SDI 02_02_2026"
             }
           }
         ]
@@ -108,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "rogue access point.md",
+            "file": "Quick Recap/Java.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -165,6 +169,14 @@
   },
   "active": "af018c103591b3fa",
   "lastOpenFiles": [
+    "owasp.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 3/SDI 02_02_2026.md",
+    "corrective layers.md",
+    "cookies.md",
+    "DAST.md",
+    "SAST.md",
+    "Quick Recap/Java.md",
+    "Excalidraw/Drawing 2026-01-25 07.55.37.excalidraw.md",
     "internship/Cyber_Gurukul_Deloitte/SDI 29_01_2026.md",
     "Accounting.md",
     "SOX.md",
@@ -183,17 +195,9 @@
     "Intership/Cyber_Gurukul_Deloitte/_Support_files/doxing.md",
     "Intership/Cyber_Gurukul_Deloitte/_Support_files/Botnet.md",
     "Intership/Cyber_Gurukul_Deloitte/_Support_files/Hack Value.md",
-    "Intership/Cyber_Gurukul_Deloitte/_Support_files/Asset.md",
-    "Intership/Cyber_Gurukul_Deloitte/_Support_files/Malware.md",
-    "Intership/Cyber_Gurukul_Deloitte/_Support_files/Daisy Chaining.md",
     "Intership/Cyber_Gurukul_Deloitte/week 1 and 2.pdf",
-    "Vulnerability.md",
     "Pasted image 20260201081239.png",
-    "Exploit.md",
-    "Intership/Cyber_Gurukul_Deloitte/_Support_files/Ransomwhere.md",
-    "Intership/Cyber_Gurukul_Deloitte/_Support_files/Worm.md",
     "Pasted image 20260201081234.png",
-    "Payload.md",
     "Intership/Cyber_Gurukul_Deloitte/Access Control.pdf"
   ]
 }

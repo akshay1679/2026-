@@ -4,123 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "cc890d875f53c72b",
+        "id": "cdfbbd12495096b0",
         "type": "tabs",
         "children": [
           {
-            "id": "fb2cf67d67e6c03f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "internship/Cyber_Gurukul_Deloitte/__Backbone SDI.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "__Backbone SDI"
-            }
-          },
-          {
-            "id": "a39afb391995b256",
+            "id": "f5570d8971d5cdc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "owasp.md",
+                "file": "private cloud.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "owasp"
-            }
-          },
-          {
-            "id": "13082b8c41ba963b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OWASP Top Ten.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "OWASP Top Ten"
-            }
-          },
-          {
-            "id": "40d073a81d4e0921",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SolarWinds Supply Chain Attack.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SolarWinds Supply Chain Attack"
-            }
-          },
-          {
-            "id": "10a10628ea3e3749",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/WebsiteVSWebapplication.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "WebsiteVSWebapplication.excalidraw"
-            }
-          },
-          {
-            "id": "16cecf93aceb74fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "internship/Cyber_Gurukul_Deloitte/Week 3/SDI 02_02_2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SDI 02_02_2026"
-            }
-          },
-          {
-            "id": "6a7440ed255eac74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "internship/Cyber_Gurukul_Deloitte/Speaking Skills/SQL injection.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SQL injection"
-            }
-          },
-          {
-            "id": "1c5f82dc5ae8e1e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PASTA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PASTA"
+              "title": "private cloud"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "asset",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a7afa5ab8a0baa9e",
@@ -289,54 +191,54 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6a7440ed255eac74",
+  "active": "f5570d8971d5cdc7",
   "lastOpenFiles": [
-    "internship/Cyber_Gurukul_Deloitte/Week 3/SDI 02_02_2026.md",
-    "Excalidraw/WebsiteVSWebapplication.excalidraw.md",
-    "SolarWinds Supply Chain Attack.md",
-    "OWASP Top Ten.md",
-    "owasp.md",
+    "cloud deployment models.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 4/SDI 09_02_2026.md",
+    "The cloud computing services.md",
+    "CaaS.md",
+    "SECaaS.md",
+    "IDaaS.md",
+    "Auth0.md",
+    "SaaS.md",
+    "PaaS.md",
+    "IaaS.md",
+    "distributed  cloud.md",
+    "Pasted image 20260209101041.png",
+    "multi  cloud.md",
+    "Pasted image 20260209100843.png",
+    "Pasted image 20260209100801.png",
+    "public cloud.md",
+    "private cloud.md",
+    "hybrid  cloud.md",
     "internship/Cyber_Gurukul_Deloitte/__Backbone SDI.md",
-    "PASTA.md",
-    "internship/Cyber_Gurukul_Deloitte/Speaking Skills/SQL injection.md",
-    "STRIDE.md",
-    "Pasted image 20260202122617.png",
-    "Pasted image 20260202120437.png",
-    "Pasted image 20260202120421.png",
-    "Supply Chain Attack.md",
-    "Pasted image 20260202102721.png",
-    "A02_2025 Security Misconfiguration.md",
-    "corrective layers.md",
-    "cookies.md",
-    "DAST.md",
-    "Pasted image 20260202094710.png",
-    "SAST.md",
-    "README.md",
-    "Quick Recap/_Support_files/☠️ Read Number From Standard Input.md",
-    "Quick Recap/_Support_files/☠️ Get Input from the User.md",
-    "Quick Recap/Java.md",
-    "internship/Cyber_Gurukul_Deloitte/_Support_files/sql-injection.svg",
-    "internship/Cyber_Gurukul_Deloitte/_Support_files/Screenshot 2026-01-30 122857.png",
-    "internship/Cyber_Gurukul_Deloitte/_Support_files/Access Control.pdf",
+    "community  cloud.md",
+    "internship/Cyber_Gurukul_Deloitte/Speaking Skills/HIPPA.md",
+    "__Notes & To do/To Do List.md",
+    "UAV.md",
+    "File system.md",
+    "Daily Notes/2025-12-31.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 3/_Support_files/NDA.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 4",
+    "internship/Cyber_Gurukul_Deloitte/Week 3/_Support_files/BYOD.md",
+    "__Notes & To do/notes.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 3/SDI 06_02_2026.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 1 & 2/week 1 and 2.pdf",
+    "internship/Cyber_Gurukul_Deloitte/Week 3/_Support_files",
+    "Quick Recap/~syncthing~Java.sync-conflict-20260205-064005-K6NHIRD.md.tmp",
+    "~syncthing~cookies.md.tmp",
+    "~syncthing~SAST.md.tmp",
+    "internship/Cyber_Gurukul_Deloitte/Week 3/_Support_files/Pasted image 20260204123705.png",
+    "internship/Cyber_Gurukul_Deloitte/Week 3/_Support_files/Pasted image 20260204123657.png",
+    "internship/Cyber_Gurukul_Deloitte/Week 3/_Support_files/Pasted image 20260204115335.png",
+    "internship/Cyber_Gurukul_Deloitte/Week 3/_Support_files/NIkto-Cheat-Sheet.pdf",
+    "internship/Cyber_Gurukul_Deloitte/Week 3/_Support_files/Pasted image 20260203123520.png",
+    "internship/Cyber_Gurukul_Deloitte/Week 3/_Support_files/Pasted image 20260203115452.png",
+    "internship/Cyber_Gurukul_Deloitte/Week 3/_Support_files/Pasted image 20260203103443.png",
+    "internship/Cyber_Gurukul_Deloitte/Week 3/_Support_files/Screenshot 2026-02-03 102237.png",
+    "internship/Cyber_Gurukul_Deloitte/Week 1 & 2/_Support_files/Access Control.pdf",
     "internship/Cyber_Gurukul_Deloitte/Week 1 & 2",
     "internship/Cyber_Gurukul_Deloitte/Week 3",
-    "internship/Cyber_Gurukul_Deloitte/Week 1 & 2/SDI 29_01_2026.md",
-    "internship/Cyber_Gurukul_Deloitte/_Support_files/IAM read me.md",
-    "internship/Cyber_Gurukul_Deloitte/Week 1 & 2/SDI 30_01_2026.md",
-    "internship/Cyber_Gurukul_Deloitte/_Support_files/Rogue Access Points (RAP).md",
-    "internship/Cyber_Gurukul_Deloitte/_Support_files/Rogue Access Points (RAP).md",
-    "internship/Cyber_Gurukul_Deloitte/_Support_files/users.webp",
-    "Untitled 1.base",
-    "Untitled.base",
-    "internship/Cyber_Gurukul_Deloitte/Speaking Skills/unpatched software.md",
-    "internship/Cyber_Gurukul_Deloitte/Speaking Skills/zero day vulnerability.md",
-    "internship/Cyber_Gurukul_Deloitte/Speaking Skills/Pasted image 20260128094514.png",
-    "internship/Cyber_Gurukul_Deloitte/Speaking Skills/Pasted image 20260128115355.jpg",
-    "internship/Cyber_Gurukul_Deloitte/_Support_files/week 1 and 2.pdf",
-    "Intership/Cyber_Gurukul_Deloitte/Unconfirmed 339790.crdownload",
-    "~syncthing~iot.sync-conflict-20260128-100621-K6NHIRD.md.tmp",
-    "~syncthing~Dlp.md.tmp",
-    "internship/Cyber_Gurukul_Deloitte/Speaking Skills",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "sem_1/Untitled.canvas",

@@ -6,7 +6,7 @@
 
 ---
 
-- [ ] File system
+- [ ] [[File system]]
 - [ ] Data structure 
 - [ ] Commands
 - [ ] Osi model
@@ -24,3 +24,4 @@
 
 make mcq with the notes and answer the questions
 
+[[File system]]

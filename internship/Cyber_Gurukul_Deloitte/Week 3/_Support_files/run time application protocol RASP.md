@@ -1,0 +1,1 @@
+given input → code execution → queries we are using for database 
