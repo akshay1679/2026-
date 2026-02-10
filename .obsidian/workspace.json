@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "cdfbbd12495096b0",
+        "id": "b9ea7a2a86369709",
         "type": "tabs",
         "children": [
           {
-            "id": "f5570d8971d5cdc7",
+            "id": "60cabad3a58b972e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private cloud.md",
+                "file": "__Notes & To do/notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "private cloud"
+              "title": "notes"
+            }
+          },
+          {
+            "id": "1b1b76aaa9f0e4d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quick Recap/Javascript.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Javascript"
+            }
+          },
+          {
+            "id": "dab0e81074c08118",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "internship/THM/Cloud Computing Fundamentals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cloud Computing Fundamentals"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "IBM Quantum Platform",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a7afa5ab8a0baa9e",
@@ -191,38 +219,42 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f5570d8971d5cdc7",
+  "active": "1b1b76aaa9f0e4d3",
   "lastOpenFiles": [
-    "cloud deployment models.md",
+    "__Notes & To do/To Do List.md",
+    "Quick Recap/Javascript.md",
+    "__Notes & To do/notes.md",
+    "internship/THM/Cloud Computing Fundamentals.md",
+    "Linear algebra.md",
+    "internship/THM/Virtualisation Basics.md",
+    "IBM Quantum Platform.md",
+    "Vectors.md",
+    "hypervisor.md",
+    "Pasted image 20260209124139.png",
+    "container.md",
+    "Pasted image 20260209123615.png",
+    "Pasted image 20260209123008.png",
     "internship/Cyber_Gurukul_Deloitte/Week 4/SDI 09_02_2026.md",
+    "internship/THM",
+    "Incidence Analysis & Forensics.md",
+    "Cloud Computing Threats.md",
+    "Service & Data Integration.md",
+    "Business Continuity & Resiliency.md",
+    "Legal & Regulatory Compliance.md",
+    "User Identity Federation.md",
+    "Accountability & Data Risk.md",
     "The cloud computing services.md",
+    "cloud deployment models.md",
+    "FaaS.md",
     "CaaS.md",
+    "private cloud.md",
     "SECaaS.md",
     "IDaaS.md",
     "Auth0.md",
-    "SaaS.md",
-    "PaaS.md",
-    "IaaS.md",
-    "distributed  cloud.md",
     "Pasted image 20260209101041.png",
-    "multi  cloud.md",
     "Pasted image 20260209100843.png",
     "Pasted image 20260209100801.png",
-    "public cloud.md",
-    "private cloud.md",
-    "hybrid  cloud.md",
-    "internship/Cyber_Gurukul_Deloitte/__Backbone SDI.md",
-    "community  cloud.md",
-    "internship/Cyber_Gurukul_Deloitte/Speaking Skills/HIPPA.md",
-    "__Notes & To do/To Do List.md",
-    "UAV.md",
-    "File system.md",
-    "Daily Notes/2025-12-31.md",
-    "internship/Cyber_Gurukul_Deloitte/Week 3/_Support_files/NDA.md",
     "internship/Cyber_Gurukul_Deloitte/Week 4",
-    "internship/Cyber_Gurukul_Deloitte/Week 3/_Support_files/BYOD.md",
-    "__Notes & To do/notes.md",
-    "internship/Cyber_Gurukul_Deloitte/Week 3/SDI 06_02_2026.md",
     "internship/Cyber_Gurukul_Deloitte/Week 1 & 2/week 1 and 2.pdf",
     "internship/Cyber_Gurukul_Deloitte/Week 3/_Support_files",
     "Quick Recap/~syncthing~Java.sync-conflict-20260205-064005-K6NHIRD.md.tmp",
@@ -233,12 +265,8 @@
     "internship/Cyber_Gurukul_Deloitte/Week 3/_Support_files/Pasted image 20260204115335.png",
     "internship/Cyber_Gurukul_Deloitte/Week 3/_Support_files/NIkto-Cheat-Sheet.pdf",
     "internship/Cyber_Gurukul_Deloitte/Week 3/_Support_files/Pasted image 20260203123520.png",
-    "internship/Cyber_Gurukul_Deloitte/Week 3/_Support_files/Pasted image 20260203115452.png",
-    "internship/Cyber_Gurukul_Deloitte/Week 3/_Support_files/Pasted image 20260203103443.png",
-    "internship/Cyber_Gurukul_Deloitte/Week 3/_Support_files/Screenshot 2026-02-03 102237.png",
     "internship/Cyber_Gurukul_Deloitte/Week 1 & 2/_Support_files/Access Control.pdf",
     "internship/Cyber_Gurukul_Deloitte/Week 1 & 2",
-    "internship/Cyber_Gurukul_Deloitte/Week 3",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "sem_1/Untitled.canvas",

@@ -14,13 +14,12 @@
     "editor:toggle-highlight",
     "editor:toggle-code",
     "editor:toggle-blockquote",
-    "editor:insert-link",
     "editor:toggle-bullet-list",
     "editor:toggle-numbered-list",
     "editor:toggle-checklist-status",
-    "editor:indent-list",
-    "editor:unindent-list",
     "editor:configure-toolbar",
-    "highlightr-plugin:Pink"
+    "highlightr-plugin:Pink",
+    "highlightr-plugin:Cyan",
+    "highlightr-plugin:Purple"
   ]
 }

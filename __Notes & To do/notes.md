@@ -11,6 +11,9 @@ https://www.ibm.com/think/topics/quantum-computing
 
 https://www.ibm.com/quantum/blog/quantum-software-vision
 
+https://quantum.cloud.ibm.com/learning/en/courses/basics-of-quantum-information
+
+
 build the custom Linux os
 
 how to break RSA algorithm with quantum computing

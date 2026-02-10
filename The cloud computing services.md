@@ -5,4 +5,4 @@
  🔐 [[IDaaS]] — Identity as a Service
   🛡️ [[SECaaS]] — Security as a Service
  📦 [[CaaS]] — Containers as a Service
- ⚡ FaaS — Function as a Service (Serverless)
+ ⚡ [[FaaS]] — Function as a Service (Serverless)

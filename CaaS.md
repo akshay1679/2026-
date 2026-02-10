@@ -1,1 +1,1 @@
-container as the service
+[[container]] as the service
