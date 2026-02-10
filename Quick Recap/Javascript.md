@@ -1,4 +1,4 @@
-variable name could start with either " _ " or " $ " symbols
+ variable name could start with either " _ " or " $ " symbols
 
 <mark style="background: #ABF7F7A6;">If you put a number in quotes, the rest of the numbers will be treated as strings, and concatenated.</mark>
 
