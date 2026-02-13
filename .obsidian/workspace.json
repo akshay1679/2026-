@@ -6,51 +6,61 @@
       {
         "id": "b9ea7a2a86369709",
         "type": "tabs",
+        "dimension": 19.305019305019304,
         "children": [
           {
             "id": "60cabad3a58b972e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "__Notes & To do/notes.md",
+                "file": "__Notes & To do/To Do List.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "notes"
+              "title": "To Do List"
             }
           },
           {
-            "id": "1b1b76aaa9f0e4d3",
+            "id": "070942a2c418eec9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vectors.md",
+                "file": "internship/Cyber_Gurukul_Deloitte/__Backbone SDI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vectors"
-            }
-          },
-          {
-            "id": "dab0e81074c08118",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "internship/THM/Cloud Computing Fundamentals.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cloud Computing Fundamentals"
+              "title": "__Backbone SDI"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "697db1f71f53b7bc",
+        "type": "tabs",
+        "dimension": 80.6949806949807,
+        "children": [
+          {
+            "id": "f425fb4723b715a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,38 +229,43 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1b1b76aaa9f0e4d3",
+  "active": "f425fb4723b715a5",
   "lastOpenFiles": [
-    "private cloud.md",
-    "cloud deployment models.md",
-    "public cloud.md",
-    "internship/Cyber_Gurukul_Deloitte/Week 4/SDI 09_02_2026.md",
-    "Quick Recap/Javascript.md",
+    "File System/File system.md",
+    "Untitled 1.md",
+    "permission granding.md",
+    "SDI 12_02_2026.md",
+    "Kernal.md",
+    "internship/Cyber_Gurukul_Deloitte/__Backbone SDI.md",
+    "Networking/github.md",
+    "File System/__Backbone.md",
+    "Networking",
     "__Notes & To do/To Do List.md",
+    "File System",
     "__Notes & To do/notes.md",
-    "internship/THM/Cloud Computing Fundamentals.md",
-    "Linear algebra.md",
-    "internship/THM/Virtualisation Basics.md",
-    "IBM Quantum Platform.md",
-    "Vectors.md",
-    "hypervisor.md",
+    "IaaS.md",
+    "Pasted image 20260211145225.png",
+    "Pasted image 20260211145153.png",
+    "internship/Cyber_Gurukul_Deloitte/Week 4/SDI 10_02_2026.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 4/SDI 11_02_2026.md",
+    "Network.md",
+    "Management.md",
+    "Indformation.md",
+    "Appliation.md",
+    "Microsoft Sentinel.md",
+    "Excalidraw/Nomenclature.excalidraw.md",
+    "EDR.md",
+    "Indicators of Compromise.md",
+    "amazon inspector.md",
+    "non credential vulnerability scan.md",
+    "credential vulnerability scan.md",
+    "Pasted image 20260211100104.png",
+    "cloud provisioning.md",
+    "The cloud computing services.md",
     "Pasted image 20260209124139.png",
-    "container.md",
     "Pasted image 20260209123615.png",
     "Pasted image 20260209123008.png",
     "internship/THM",
-    "Incidence Analysis & Forensics.md",
-    "Cloud Computing Threats.md",
-    "Service & Data Integration.md",
-    "Business Continuity & Resiliency.md",
-    "Legal & Regulatory Compliance.md",
-    "User Identity Federation.md",
-    "Accountability & Data Risk.md",
-    "The cloud computing services.md",
-    "FaaS.md",
-    "CaaS.md",
-    "SECaaS.md",
-    "IDaaS.md",
     "Pasted image 20260209101041.png",
     "Pasted image 20260209100843.png",
     "Pasted image 20260209100801.png",
@@ -261,12 +276,7 @@
     "~syncthing~cookies.md.tmp",
     "~syncthing~SAST.md.tmp",
     "internship/Cyber_Gurukul_Deloitte/Week 3/_Support_files/Pasted image 20260204123705.png",
-    "internship/Cyber_Gurukul_Deloitte/Week 3/_Support_files/Pasted image 20260204123657.png",
-    "internship/Cyber_Gurukul_Deloitte/Week 3/_Support_files/Pasted image 20260204115335.png",
     "internship/Cyber_Gurukul_Deloitte/Week 3/_Support_files/NIkto-Cheat-Sheet.pdf",
-    "internship/Cyber_Gurukul_Deloitte/Week 3/_Support_files/Pasted image 20260203123520.png",
-    "internship/Cyber_Gurukul_Deloitte/Week 1 & 2/_Support_files/Access Control.pdf",
-    "internship/Cyber_Gurukul_Deloitte/Week 1 & 2",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "sem_1/Untitled.canvas",

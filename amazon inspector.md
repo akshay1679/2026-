@@ -1,0 +1,1 @@
+**Amazon Inspector** is an automated vulnerability management service in **Amazon Web Services (AWS)**. It continuously scans your workloads for security issues and prioritizes them based on risk so you know what to fix first

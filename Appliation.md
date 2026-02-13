@@ -1,0 +1,1 @@
+to host the application in cloud we need to make sure that those application doesnt have any type of issue

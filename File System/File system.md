@@ -1,10 +1,10 @@
 ## Linux file system (simple explanation)
 
-![Image](https://miro.medium.com/0%2AbFnHaO8eYpW3dSuz)
+![[Pasted image 20260211145153.png]]
 
-![Image](https://linuxhandbook.com/content/images/2020/06/linux-directory-structure.png)
+![[Pasted image 20260211145225.png]]
 
-![Image](https://www.linuxfoundation.org/hs-fs/hubfs/Imported_Blog_Media/standard-unix-filesystem-hierarchy-1.png?height=1001&name=standard-unix-filesystem-hierarchy-1.png&width=1817)
+
 
 In **Linux**, everything is organized in **one single tree**, starting from the **root directory**:
 
@@ -59,33 +59,24 @@ There are **no drive letters** like `C:` or `D:`. All disks, USBs, and partition
 **1. Everything is a file**
 
 - Hardware (disks, USB, printer) → files in `/dev`
-    
 - System info → files in `/proc`
-    
 
 **2. Case-sensitive**
 
 - `File.txt` ≠ `file.txt`
-    
 
 **3. Permissions**  
 Each file has:
 
 - **Owner**
-    
 - **Group**
-    
 - **Others**
-    
 
 With permissions:
 
 - `r` (read)
-    
 - `w` (write)
-    
 - `x` (execute)
-    
 
 Example:
 
@@ -120,8 +111,18 @@ mount     # mount devices
 
 ---
 
-If you want:
 
-- a **comparison with Windows file system**
-- a **diagram-based explanation**
-- or **interview-style notes**
+shaodw and passwd inside etc
+
+suid → super user id
+set grp id → set group id
+
+==**User** (owner), **Group**, and **Others**==.
+
+
+[[permission granding]]
+
+ctrl + alt + D → terminal
+
+ctrl + alt + F1
+

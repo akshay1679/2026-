@@ -1,0 +1,1 @@
+the data in application should be kept safe by encryption
