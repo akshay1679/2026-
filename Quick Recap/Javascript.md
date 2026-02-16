@@ -1,4 +1,4 @@
- variable name could start with either " _ " or " $ " symbols
+Variable name could start with either " _ " or " $ " symbols
 
 <mark style="background: #ABF7F7A6;">If you put a number in quotes, the rest of the numbers will be treated as strings, and concatenated.</mark>
 
@@ -216,4 +216,14 @@ console.log(items);
 ```
 
 pop → remove the element
+
+
+```javascript
+var m = "";
+for(let i = 0;i<10;i++)
+{
+    m = m + i + " ";
+}
+console.log(m)
+```
 

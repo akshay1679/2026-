@@ -6,7 +6,6 @@
       {
         "id": "b9ea7a2a86369709",
         "type": "tabs",
-        "dimension": 19.305019305019304,
         "children": [
           {
             "id": "60cabad3a58b972e",
@@ -25,42 +24,21 @@
             }
           },
           {
-            "id": "070942a2c418eec9",
+            "id": "7f70bd810d7a91d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "internship/Cyber_Gurukul_Deloitte/__Backbone SDI.md",
+                "file": "Networking/github.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "__Backbone SDI"
+              "title": "github"
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "697db1f71f53b7bc",
-        "type": "tabs",
-        "dimension": 80.6949806949807,
-        "children": [
-          {
-            "id": "f425fb4723b715a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 1"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -229,54 +207,54 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f425fb4723b715a5",
+  "active": "7f70bd810d7a91d4",
   "lastOpenFiles": [
     "File System/File system.md",
-    "Untitled 1.md",
-    "permission granding.md",
-    "SDI 12_02_2026.md",
-    "Kernal.md",
+    "__Notes & To do/To Do List.md",
+    "__Notes & To do/notes.md",
+    "README.md",
+    "Network.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 5/SDI 16_02_2026.md",
+    "Excalidraw/Drawing 2026-02-16 10.22.34.excalidraw.md",
+    "Dynamic patch.md",
+    "DLL  hijacking.md",
+    "Dirty COW attack.md",
+    "traditional path.md",
     "internship/Cyber_Gurukul_Deloitte/__Backbone SDI.md",
+    "GRUB.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 5/_Support_Files",
+    "internship/Cyber_Gurukul_Deloitte/Week 4/_support_files/The cloud computing services.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 5",
+    "UAV.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 4/SDI 12_02_2026.md",
+    "Untitled.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 4/_support_files",
+    "sivam notes.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 4/_support_files/shell.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 4/_support_files/Kernel.md",
+    "Quick Recap/Javascript.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 4/SDI 11_02_2026.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 4/_support_files/permission granding.md",
     "Networking/github.md",
     "File System/__Backbone.md",
     "Networking",
-    "__Notes & To do/To Do List.md",
     "File System",
-    "__Notes & To do/notes.md",
-    "IaaS.md",
-    "Pasted image 20260211145225.png",
-    "Pasted image 20260211145153.png",
-    "internship/Cyber_Gurukul_Deloitte/Week 4/SDI 10_02_2026.md",
-    "internship/Cyber_Gurukul_Deloitte/Week 4/SDI 11_02_2026.md",
-    "Network.md",
-    "Management.md",
-    "Indformation.md",
-    "Appliation.md",
-    "Microsoft Sentinel.md",
-    "Excalidraw/Nomenclature.excalidraw.md",
-    "EDR.md",
-    "Indicators of Compromise.md",
-    "amazon inspector.md",
-    "non credential vulnerability scan.md",
-    "credential vulnerability scan.md",
-    "Pasted image 20260211100104.png",
-    "cloud provisioning.md",
-    "The cloud computing services.md",
-    "Pasted image 20260209124139.png",
-    "Pasted image 20260209123615.png",
-    "Pasted image 20260209123008.png",
+    "internship/Cyber_Gurukul_Deloitte/Week 4/_support_files/IaaS.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 4/_support_files/Pasted image 20260211145225.png",
+    "internship/Cyber_Gurukul_Deloitte/Week 4/_support_files/Pasted image 20260211145153.png",
+    "internship/Cyber_Gurukul_Deloitte/Week 4/_support_files/Pasted image 20260211100104.png",
+    "internship/Cyber_Gurukul_Deloitte/Week 4/_support_files/Pasted image 20260209124139.png",
+    "internship/Cyber_Gurukul_Deloitte/Week 4/_support_files/Pasted image 20260209123615.png",
+    "internship/Cyber_Gurukul_Deloitte/Week 4/_support_files/Pasted image 20260209123008.png",
     "internship/THM",
-    "Pasted image 20260209101041.png",
-    "Pasted image 20260209100843.png",
-    "Pasted image 20260209100801.png",
+    "internship/Cyber_Gurukul_Deloitte/Week 4/_support_files/Pasted image 20260209101041.png",
+    "internship/Cyber_Gurukul_Deloitte/Week 4/_support_files/Pasted image 20260209100843.png",
+    "internship/Cyber_Gurukul_Deloitte/Week 4/_support_files/Pasted image 20260209100801.png",
     "internship/Cyber_Gurukul_Deloitte/Week 4",
     "internship/Cyber_Gurukul_Deloitte/Week 1 & 2/week 1 and 2.pdf",
     "internship/Cyber_Gurukul_Deloitte/Week 3/_Support_files",
     "Quick Recap/~syncthing~Java.sync-conflict-20260205-064005-K6NHIRD.md.tmp",
-    "~syncthing~cookies.md.tmp",
-    "~syncthing~SAST.md.tmp",
     "internship/Cyber_Gurukul_Deloitte/Week 3/_Support_files/Pasted image 20260204123705.png",
-    "internship/Cyber_Gurukul_Deloitte/Week 3/_Support_files/NIkto-Cheat-Sheet.pdf",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "sem_1/Untitled.canvas",
