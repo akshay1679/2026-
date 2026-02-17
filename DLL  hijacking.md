@@ -17,15 +17,10 @@ the system searches a list of directories in order. If an attacker can put a fak
 Typical search locations include:
 
 1. The folder the application runs from
-    
 2. System folders
-    
 3. Windows folder
-    
 4. Current working directory
-    
 5. Directories in the PATH
-    
 
 (Exact behavior can change depending on safe-loading settings.)
 
@@ -34,13 +29,9 @@ Typical search locations include:
 ## Real-world flow
 
 1. Victim downloads or opens a legitimate program.
-    
 2. In the same folder sits a malicious DLL with the expected name.
-    
 3. The app starts → Windows finds the malicious DLL first.
-    
 4. Attacker code executes with the app’s privileges.
-    
 
 If that program runs as admin, the attacker just escalated privileges.
 
@@ -49,16 +40,11 @@ If that program runs as admin, the attacker just escalated privileges.
 ## What attackers usually aim for
 
 - Initial execution after a user opens a file/app
-    
 - Privilege escalation
-    
 - Persistence
-    
 - Bypassing application whitelisting
-    
 
 ---
-
 ## Famous example: Stuxnet
 
 Stuxnet used DLL hijacking among several techniques to get its payload executed on targeted systems.
@@ -70,11 +56,8 @@ Stuxnet used DLL hijacking among several techniques to get its payload executed 
 Because developers still:
 
 - Reference DLLs without absolute paths
-    
 - Forget to use secure loading flags
-    
 - Ship software that runs from writeable directories
-    
 
 ---
 

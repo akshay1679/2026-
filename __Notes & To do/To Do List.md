@@ -27,3 +27,5 @@ make mcq with the notes and answer the questions
 [[File system]]
 
 - [ ] study sql
+- [ ] https://tryhackme.com/room/dnsindetail
+- [ ] 
