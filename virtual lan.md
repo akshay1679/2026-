@@ -1,0 +1,1 @@
+with help of the virtual lan all computer will be connected to same switch but wont be able to communicate each other  in a group 
