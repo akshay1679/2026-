@@ -10,12 +10,14 @@ class 9 : [[SDI 04_02_2026]]
 class 10: [[SDI 05_02_2026]]
 class 11: [[SDI 06_02_2026]]
 
-class 11: [[SDI 09_02_2026]]
+class 12: [[SDI 09_02_2026]]
 class 12: [[SDI 10_02_2026]]
 class 13: [[SDI 11_02_2026]]
 class 15: [[SDI 12_02_2026]]
 class 17: [[SDI 16_02_2026]]
 class 18: [[SDI 17_02_2026]]
 class 18: [[SDI 18_02_2026]]
+class 19: [[SDI 19_02_2026]]
+class 20: [[SDI 20_02_2026]]
 
 

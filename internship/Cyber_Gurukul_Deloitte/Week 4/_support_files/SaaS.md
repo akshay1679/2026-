@@ -18,3 +18,16 @@ i map or pock tree in Gmail
 how does the mail transfer works
 
 we only will be having the data that is stored all others will be handled bu the service provider
+
+### Concept:
+
+You directly use software through internet.
+You don’t manage anything.
+
+### Analogy:
+
+Ordering food 🍕  
+You just eat.
+
+👉 Least control  
+👉 Zero technical responsibility

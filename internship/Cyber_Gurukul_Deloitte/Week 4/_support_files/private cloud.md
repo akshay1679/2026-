@@ -13,3 +13,11 @@ multi tenant system → don't have that much of control
 who will be handling the security
 
 we use it to store the data is critical data
+
+<mark style="background: #D2B3FFA6;">A cloud used by only one organization.</mark>
+<mark style="background: #D2B3FFA6;">It’s like owning your own house. No one else shares it.</mark>
+**Key point:**
+
+- ==More control==
+- ==More security==
+- ==Usually more expensive==

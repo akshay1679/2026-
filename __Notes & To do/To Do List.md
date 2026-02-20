@@ -27,5 +27,10 @@ make mcq with the notes and answer the questions
 [[File system]]
 
 - [ ] study sql
-- [ ] https://tryhackme.com/room/dnsindetail
-- [ ] 
+- [ ] [DNS in Detail](https://tryhackme.com/room/dnsindetail)
+- [ ] [Encryption - Crypto 101](https://tryhackme.com/room/encryptioncrypto101)
+- [ ] [Cryptography Basics](https://tryhackme.com/room/cryptographybasics)
+- [ ] [crackstation.net](https://crackstation.net/)
+- [ ] [Crack the hash](https://tryhackme.com/room/crackthehash)
+- [ ] [Secure Network Architecture](https://tryhackme.com/room/introtosecurityarchitecture)
+- [ ] [Wifi Hacking 101](https://tryhackme.com/room/wifihacking101)

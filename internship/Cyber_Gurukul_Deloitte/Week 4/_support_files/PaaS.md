@@ -1,17 +1,26 @@
 Examples: Heroku, Google App Engine, Red Hat OpenShift
 
-Here<mark style="background: #ABF7F7A6;"> the vendor gives you a ready platform to deploy code.</mark>
+### Concept:
 
-You manage:
+The provider gives you a ready **environment to build apps**.
 
-- your application
-- your data
+You just:
 
-They manage:
+- Write code
+- Deploy app
 
+You don’t manage:
+
+- Servers
 - OS
-- runtime
-- scaling
-- infrastructure
+- Runtime
+
+### Analogy:
+
+Fully furnished kitchen 🍳  
+You only cook.
+
+👉 Medium control  
+👉 Less responsibility
 
 **Best when** you<mark style="background: #ABF7F7A6;"> want to focus on development, not server maintenance</mark>.

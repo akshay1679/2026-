@@ -2,23 +2,24 @@ Examples: Amazon Web Services EC2, Microsoft Azure Virtual Machines, Google Clou
 
 <mark style="background: #FFB8EBA6;">You rent the fundamentals: virtual machines, storage, networking.</mark>
 
-You manage:
+The provider gives:
 
-- OS
-- runtime
-- middleware
-- applications
-- data
+- ==Server==
+- ==Storage==
+- ==Networking==
 
-The provider manages:
+You must:
 
-- physical servers
-- virtualization
-- networking hardware
+- Install OS
+- Install software
+- Manage everything
+
+### Simple analogy:
+
+You rent an empty apartment 🏠  
+You bring furniture, kitchen items, everything.
+
+👉 Maximum control
+👉 Maximum responsibility
 
 **Best when** you want <mark style="background: #ABF7F7A6;">maximum control and flexibility.</mark>
-
-
-we will be directly  
-
-we can configure everything 
