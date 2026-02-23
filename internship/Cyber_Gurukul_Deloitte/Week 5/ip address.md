@@ -1,4 +1,4 @@
-![[Pasted image 20260222102921.png]]
+w![[Pasted image 20260222102921.png]]
 
 acme corporation owns every ip that starts with 10.x.x.x
 acme has 3 offices
