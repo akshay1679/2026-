@@ -1,0 +1,1 @@
+In the context of cybersecurity, **banner grabbing** is a reconnaissance technique used to collect information from computers and network services.

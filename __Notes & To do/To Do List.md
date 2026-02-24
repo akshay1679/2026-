@@ -34,3 +34,13 @@ make mcq with the notes and answer the questions
 - [ ] [Crack the hash](https://tryhackme.com/room/crackthehash)
 - [ ] [Secure Network Architecture](https://tryhackme.com/room/introtosecurityarchitecture)
 - [ ] [Wifi Hacking 101](https://tryhackme.com/room/wifihacking101)
+- [ ] https://tryhackme.com/module/linux-fundamentals
+
+- [ ] learn about burp suite
+- [ ] connect thm with vm
+- [ ] testfire.net
+- [ ] ip subnetting
+- [ ] ip mask
+- [ ] subnet mask
+- [ ] cidr notation
+- [ ] 
