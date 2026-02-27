@@ -23,7 +23,7 @@ intitle : "IP camera""user login"
 
 [[netcraft]]  → used for open source intelligence
 
-[[how to  install ollama]]
+[[ollama how to  install]]
 
 [[DNSdumbster]]
 
@@ -66,7 +66,7 @@ amass --> tool for enumeration
 
 netdiscoverer  --> will take a lot of time 
 
-theHarvester
+[[Harvester]]
 
 ping ?
 pingsweep?
