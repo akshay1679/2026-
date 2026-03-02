@@ -24,33 +24,7 @@
             }
           },
           {
-            "id": "e1dea682fe717989",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "internship/THM/DNS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DNS"
-            }
-          },
-          {
-            "id": "5fd20c4ac13a942e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-02-26 14.44.43.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-02-26 14.44.43.excalidraw"
-            }
-          },
-          {
-            "id": "1fc824ed25152dca",
+            "id": "8bbe255f48cea411",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,17 +38,17 @@
             }
           },
           {
-            "id": "c456735ac0b530be",
+            "id": "dc3b2f2f1562accc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "internship/THM/Introduction to OWASP ZAP.md",
+                "file": "internship/Cyber_Gurukul_Deloitte/Week 7/SDI 02_03_2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction to OWASP ZAP"
+              "title": "SDI 02_03_2026"
             }
           }
         ],
@@ -110,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "IBM Quantum Platform",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -247,54 +221,54 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5fd20c4ac13a942e",
+  "active": "22cb213078b520f9",
   "lastOpenFiles": [
-    "internship/THM/Introduction to OWASP ZAP.md",
-    "SDI 27_02_2026.md",
-    "Pasted image 20260227102404.png",
-    "Pasted image 20260227095846.png",
+    "internship/Cyber_Gurukul_Deloitte/Week 7/SDI 02_03_2026.md",
     "internship/Cyber_Gurukul_Deloitte/__Backbone SDI.md",
-    "SDI 25_02_2026.md",
-    "SDI 26_02_2026.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 6/_support_files/CSRF.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 7/_support_files",
+    "internship/Cyber_Gurukul_Deloitte/Week 7/__pasted_image",
+    "internship/Cyber_Gurukul_Deloitte/Week 7",
+    "M.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 6/_support_files/grep.md",
     "__Notes & To do/To Do List.md",
     "internship/THM/DNS.md",
-    "internship/THM/OpenVAS _26_02_2026.md",
-    "Pasted image 20260226151311.png",
     "Excalidraw/Drawing 2026-02-26 14.44.43.excalidraw.md",
-    "Pasted image 20260226123257.png",
-    "Pasted image 20260226122250.png",
-    "~syncthing~SDI 26_02_2026.md.tmp",
-    "Pasted image 20260226114802.png",
-    "Pasted image 20260226101903.png",
-    "Pasted image 20260226100820.png",
-    "Pasted image 20260226100129.png",
-    "Pasted image 20260226095944.png",
-    "nmap.md",
-    "internship/THM/metasploitintro.md",
-    "Excalidraw/Drawing 2026-02-24 19.48.16.excalidraw.md",
-    "Wire shark.md",
-    "Harvester.md",
-    "Excalidraw/Drawing 2026-02-25 12.37.55.excalidraw.md",
-    "grep.md",
-    "internship/Cyber_Gurukul_Deloitte/Week 6/SDI 24_02_2026.md",
-    "locate.md",
-    "~syncthing~SDI 25_02_2026.md.tmp",
-    "internship/Cyber_Gurukul_Deloitte/Week 6/_support_files/Intelligence Gathering.md",
-    "__ catalog/all.md",
-    "Sherlock.md",
-    "ollama how to  install.md",
-    "Exploit Database.md",
-    "internship/Cyber_Gurukul_Deloitte/Week 6/_support_files/passive  reconnaissance.md",
-    "internship/Cyber_Gurukul_Deloitte/Week 6/_support_files/active reconnaissance.md",
-    "internship/Cyber_Gurukul_Deloitte/Week 6/_support_files/PTES.md",
-    "__ catalog",
+    "internship/Cyber_Gurukul_Deloitte/Week 6/_support_files/ollama how to  install.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 4/SDI 12_02_2026.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 6/_support_files/Banner Grabbing.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 6/_support_files/Exploit Database.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 6/_support_files/Google Search operators.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 6/__pasted_image/Pasted image 20260225155855.png",
+    "internship/Cyber_Gurukul_Deloitte/Week 6/__pasted_image/Pasted image 20260226123257.png",
     "internship/Cyber_Gurukul_Deloitte/Week 6/pentest-standard-readthedocs-io-en-latest.pdf",
+    "Remember.md",
+    "~syncthing~Remember.md.tmp",
+    "internship/Cyber_Gurukul_Deloitte/Week 6/SDI 23_02_2026.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 6/SDI 24_02_2026.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 6/_support_files/pre-engagement interaction.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 6/_support_files/white box penetration testing.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 6/_support_files/black box penetration testing.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 6/_support_files/rules of engagements ROE.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 6/_support_files/PTES.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 6/_support_files/TTP.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 6/_support_files/Techniques.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 6/_support_files/Tactics.md",
+    "internship/THM/Introduction to OWASP ZAP.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 6/SDI 27_02_2026.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 6/__pasted_image/Pasted image 20260227102404.png",
+    "internship/Cyber_Gurukul_Deloitte/Week 6/__pasted_image/Pasted image 20260227095846.png",
+    "internship/Cyber_Gurukul_Deloitte/Week 6/__pasted_image/Pasted image 20260226151311.png",
+    "internship/Cyber_Gurukul_Deloitte/Week 6/__pasted_image/Pasted image 20260226122250.png",
+    "~syncthing~SDI 26_02_2026.md.tmp",
+    "internship/Cyber_Gurukul_Deloitte/Week 6/__pasted_image/Pasted image 20260226114802.png",
+    "internship/Cyber_Gurukul_Deloitte/Week 6/__pasted_image/Pasted image 20260226101903.png",
+    "internship/Cyber_Gurukul_Deloitte/Week 6/__pasted_image/Pasted image 20260226100820.png",
+    "internship/Cyber_Gurukul_Deloitte/Week 6/__pasted_image/Pasted image 20260226100129.png",
+    "~syncthing~SDI 25_02_2026.md.tmp",
+    "__ catalog",
     "internship/Cyber_Gurukul_Deloitte/Week 6/_support_files",
     "internship/Cyber_Gurukul_Deloitte/Week 6/Unconfirmed 811022.crdownload",
-    "internship/Cyber_Gurukul_Deloitte/Week 6/__pasted_image",
-    "internship/Cyber_Gurukul_Deloitte/Week 6",
-    "Quantum computing",
-    "internship/Cyber_Gurukul_Deloitte/Week 5/__pasted_image",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "sem_1/Untitled.canvas",
