@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b9ea7a2a86369709",
+        "id": "b83453d882394272",
         "type": "tabs",
         "children": [
           {
-            "id": "60cabad3a58b972e",
+            "id": "74b278463370688e",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -24,35 +24,47 @@
             }
           },
           {
-            "id": "8bbe255f48cea411",
+            "id": "976029680b5b0449",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "internship/Cyber_Gurukul_Deloitte/__Backbone SDI.md",
+                "file": "internship/Cyber_Gurukul_Deloitte/Week 8/SDI 09_03_2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "__Backbone SDI"
+              "title": "SDI 09_03_2026"
             }
           },
           {
-            "id": "dc3b2f2f1562accc",
+            "id": "3046304b3941a0fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "internship/Cyber_Gurukul_Deloitte/Week 7/SDI 02_03_2026.md",
+                "file": "honeypots.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SDI 02_03_2026"
+              "title": "honeypots"
+            }
+          },
+          {
+            "id": "b5e261b688e66179",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-03-09 10.03.44.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-03-09 10.03.44.excalidraw"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,54 +233,53 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "22cb213078b520f9",
+  "active": "976029680b5b0449",
   "lastOpenFiles": [
-    "internship/Cyber_Gurukul_Deloitte/Week 7/SDI 02_03_2026.md",
+    "__Notes & To do/To Do List.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 8/SDI 09_03_2026.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 8/~syncthing~SDI 09_03_2026.md.tmp",
+    "honeypots.md",
+    "~syncthing~honeypots.md.tmp",
     "internship/Cyber_Gurukul_Deloitte/__Backbone SDI.md",
-    "internship/Cyber_Gurukul_Deloitte/Week 6/_support_files/CSRF.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 8/SDI 09_03_2026.sync-conflict-20260309-101444-K6NHIRD.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 8/~syncthing~SDI 09_03_2026.sync-conflict-20260309-101444-K6NHIRD.md.tmp",
+    "Excalidraw/Drawing 2026-03-09 10.03.44.excalidraw.md",
+    "Pasted image 20260309095053.png",
+    "Pasted image 20260309094959.png",
+    "paper reference.md",
+    "lenux commands.md",
+    "Blue.md",
+    "internship/THM/__Supporting_notes/Pasted image 20260307214108.png",
+    "internship/Cyber_Gurukul_Deloitte/Week 8",
+    "internship/THM/__Supporting_notes",
+    "internship/THM/__Supporting_notes/Pasted image 20260307213529.png",
+    "internship/THM/__Supporting_notes/Pasted image 20260307195120.png",
+    "internship/THM/__Supporting_notes/Pasted image 20260307213511.png",
+    "internship/THM/__Supporting_notes/Pasted image 20260307192844.png",
+    "internship/Cyber_Gurukul_Deloitte/Week 7/SDI 05_03_2026.md",
+    "internship/THM/Nmap.md",
+    "internship/THM/Nmap- The Basics.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 7/SDI 03_03_2026.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 7/SDI 02_03_2026.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 6/SDI 25_02_2026.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 7/_support_files/XXE.md",
+    "Pentest on DVWA , Metasploitable.md",
+    "internship/THM/__Supporting_notes/Pasted image 20260307215519.png",
+    "internship/Cyber_Gurukul_Deloitte/Week 6/_support_files/nmap.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 6/_support_files/grep.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 6/_support_files/locate.md",
+    "evil -no-vnc.md",
+    "internship/THM/Networking Concepts.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 7/_support_files/Pasted image 20260307142247.png",
+    "internship/Cyber_Gurukul_Deloitte/Week 7/_support_files/Pasted image 20260307142113.png",
+    "README.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 7/_support_files/macro virus.md",
+    "internship/THM/metasploitintro.md",
     "internship/Cyber_Gurukul_Deloitte/Week 7/_support_files",
     "internship/Cyber_Gurukul_Deloitte/Week 7/__pasted_image",
     "internship/Cyber_Gurukul_Deloitte/Week 7",
-    "M.md",
-    "internship/Cyber_Gurukul_Deloitte/Week 6/_support_files/grep.md",
-    "__Notes & To do/To Do List.md",
-    "internship/THM/DNS.md",
-    "Excalidraw/Drawing 2026-02-26 14.44.43.excalidraw.md",
-    "internship/Cyber_Gurukul_Deloitte/Week 6/_support_files/ollama how to  install.md",
-    "internship/Cyber_Gurukul_Deloitte/Week 4/SDI 12_02_2026.md",
-    "internship/Cyber_Gurukul_Deloitte/Week 6/_support_files/Banner Grabbing.md",
-    "internship/Cyber_Gurukul_Deloitte/Week 6/_support_files/Exploit Database.md",
-    "internship/Cyber_Gurukul_Deloitte/Week 6/_support_files/Google Search operators.md",
-    "internship/Cyber_Gurukul_Deloitte/Week 6/__pasted_image/Pasted image 20260225155855.png",
-    "internship/Cyber_Gurukul_Deloitte/Week 6/__pasted_image/Pasted image 20260226123257.png",
     "internship/Cyber_Gurukul_Deloitte/Week 6/pentest-standard-readthedocs-io-en-latest.pdf",
-    "Remember.md",
     "~syncthing~Remember.md.tmp",
-    "internship/Cyber_Gurukul_Deloitte/Week 6/SDI 23_02_2026.md",
-    "internship/Cyber_Gurukul_Deloitte/Week 6/SDI 24_02_2026.md",
-    "internship/Cyber_Gurukul_Deloitte/Week 6/_support_files/pre-engagement interaction.md",
-    "internship/Cyber_Gurukul_Deloitte/Week 6/_support_files/white box penetration testing.md",
-    "internship/Cyber_Gurukul_Deloitte/Week 6/_support_files/black box penetration testing.md",
-    "internship/Cyber_Gurukul_Deloitte/Week 6/_support_files/rules of engagements ROE.md",
-    "internship/Cyber_Gurukul_Deloitte/Week 6/_support_files/PTES.md",
-    "internship/Cyber_Gurukul_Deloitte/Week 6/_support_files/TTP.md",
-    "internship/Cyber_Gurukul_Deloitte/Week 6/_support_files/Techniques.md",
-    "internship/Cyber_Gurukul_Deloitte/Week 6/_support_files/Tactics.md",
-    "internship/THM/Introduction to OWASP ZAP.md",
-    "internship/Cyber_Gurukul_Deloitte/Week 6/SDI 27_02_2026.md",
-    "internship/Cyber_Gurukul_Deloitte/Week 6/__pasted_image/Pasted image 20260227102404.png",
-    "internship/Cyber_Gurukul_Deloitte/Week 6/__pasted_image/Pasted image 20260227095846.png",
-    "internship/Cyber_Gurukul_Deloitte/Week 6/__pasted_image/Pasted image 20260226151311.png",
-    "internship/Cyber_Gurukul_Deloitte/Week 6/__pasted_image/Pasted image 20260226122250.png",
-    "~syncthing~SDI 26_02_2026.md.tmp",
-    "internship/Cyber_Gurukul_Deloitte/Week 6/__pasted_image/Pasted image 20260226114802.png",
-    "internship/Cyber_Gurukul_Deloitte/Week 6/__pasted_image/Pasted image 20260226101903.png",
-    "internship/Cyber_Gurukul_Deloitte/Week 6/__pasted_image/Pasted image 20260226100820.png",
-    "internship/Cyber_Gurukul_Deloitte/Week 6/__pasted_image/Pasted image 20260226100129.png",
-    "~syncthing~SDI 25_02_2026.md.tmp",
-    "__ catalog",
-    "internship/Cyber_Gurukul_Deloitte/Week 6/_support_files",
-    "internship/Cyber_Gurukul_Deloitte/Week 6/Unconfirmed 811022.crdownload",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "sem_1/Untitled.canvas",

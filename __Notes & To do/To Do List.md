@@ -43,4 +43,18 @@ make mcq with the notes and answer the questions
 - [ ] ip mask
 - [ ] subnet mask
 - [ ] cidr notation
-- [ ] 
+
+---
+
+- [ ] nmap
+- [ ] nmap advanced
+- [ ] https://tryhackme.com/room/hfb1evilgpt
+- [ ] enumeration thm
+- [ ] different ports and protocols
+- [ ] firewall
+- [ ] tcp vs udp
+- [ ]  ICMP (or "ping") scanning ?
+- [ ] https://tryhackme.com/room/introtonetworking
+
+---
+- [ ] the hacker news read one news a day

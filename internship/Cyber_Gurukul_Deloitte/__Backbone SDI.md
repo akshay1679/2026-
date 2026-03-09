@@ -30,4 +30,16 @@ class 24: [[SDI 26_02_2026]]
 class 25: [[SDI 27_02_2026]]
 
 class 26: [[SDI 02_03_2026]]
+class 27: [[SDI 03_03_2026]]
+--holi--
+class 2: [[SDI 05_03_2026]]
+
+---
+# High focus area
+
+---
+
+class 28: [[SDI 09_03_2026]]
+
+
 
