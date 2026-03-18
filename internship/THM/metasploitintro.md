@@ -59,7 +59,7 @@ They are mainly used for:
 - `gather/` → Collect information (users, shares, etc.)
 - `crawler/` → Web crawling
 - `fuzzers/` → Input fuzzing
-- `sqli/` → SQL injection testing
+- ` sqli/` → SQL injection testing
 - `sniffer/` → Packet sniffing
 - `dos/` → Denial of Service
 

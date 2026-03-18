@@ -21,5 +21,11 @@
     "highlightr-plugin:Pink",
     "highlightr-plugin:Cyan",
     "highlightr-plugin:Purple"
-  ]
+  ],
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
