@@ -1,0 +1,1 @@
+**(Prevention):** Can also stop or block malicious activity

@@ -49,7 +49,17 @@ class 33: [[SDI 13_03_2026]]
 class 34: [[SDI 16_03_2026]]
 class 35: [[SDI 17_03_2026]]
 class 36: [[SDI 18_03_2026]]
+class 36: [[SDI 19_03_2026]]
 
 
+class 36: [[SDI 23_03_2026]]
+class 36: [[SDI 24_03_2026]]
+class 36: [[SDI 25_03_2026]]
+--didnt take notes
+class 36: [[SDI 27_03_2026]]
 
+
+class 36: [[SDI 30_03_2026]]
+class 36: [[SDI 31_03_2026]]
+class 36: [[SDI 2_04_2026]]
 

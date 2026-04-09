@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OTX.md",
+                "file": "internship/Cyber_Gurukul_Deloitte/__Backbone SDI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OTX"
+              "title": "__Backbone SDI"
             }
           }
         ],
@@ -212,9 +212,11 @@
   },
   "active": "eec053b9e6d0fc72",
   "lastOpenFiles": [
-    "SDI 12_03_2026.md",
-    "OTX.md",
+    "SDI 16_03_2026.md",
     "internship/Cyber_Gurukul_Deloitte/__Backbone SDI.md",
+    "SDI 18_03_2026.md",
+    "OTX.md",
+    "SDI 12_03_2026.md",
     "internship/Cyber_Gurukul_Deloitte/Week 8/SDI 09_03_2026.md",
     "internship/Cyber_Gurukul_Deloitte/Week 6/SDI 25_02_2026.md",
     "honeypots.md",
@@ -238,8 +240,6 @@
     "Exploit Database.md",
     "internship/Cyber_Gurukul_Deloitte/Week 6/_support_files/Tactics.md",
     "internship/Cyber_Gurukul_Deloitte/Week 6/_support_files/rules of engagements ROE.md",
-    "internship/Cyber_Gurukul_Deloitte/Week 6/_support_files/grey box penetration testing.md",
-    "internship/Cyber_Gurukul_Deloitte/Week 6/_support_files/black box penetration testing.md",
     "internship/Cyber_Gurukul_Deloitte/Week 6/_support_files",
     "internship/Cyber_Gurukul_Deloitte/Week 3/Week 3 and Week 4.pdf",
     "Intership/Cyber_Gurukul_Deloitte/week 1 and 2.pdf",

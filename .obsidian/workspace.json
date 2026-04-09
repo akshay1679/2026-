@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "852a80131524e3bd",
+        "id": "386635dd5393efe5",
         "type": "tabs",
         "children": [
           {
-            "id": "f4493e4d19ebbdcd",
+            "id": "48081ea0fb25633b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SDI 18_03_2026.md",
+                "file": "Daily Notes/2025-12-31.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SDI 18_03_2026"
-            }
-          },
-          {
-            "id": "5994f8510284703b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SDI 18_03_2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SDI 18_03_2026"
+              "title": "2025-12-31"
             }
           }
         ]
@@ -88,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,54 +190,54 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f4493e4d19ebbdcd",
+  "active": "48081ea0fb25633b",
   "lastOpenFiles": [
-    "Pasted image 20260318220501.png",
-    "internship/Cyber_Gurukul_Deloitte/__Backbone SDI.md",
-    "SDI 16_03_2026.md",
-    "SDI 17_03_2026.md",
-    "SDI 18_03_2026.md",
-    "Pasted image 20260318101110.png",
-    "Assessment.md",
-    "OTX.md",
-    "Excalidraw/Drawing 2026-03-16 12.11.33.excalidraw.md",
-    "internship/Cyber_Gurukul_Deloitte/Speaking Skills/SQL injection.md",
-    "internship/THM/metasploitintro.md",
-    "extra1.md",
-    "Pasted image 20260317094133.png",
-    "Pasted image 20260317094000.png",
-    "Pasted image 20260317093610.png",
-    "Pasted image 20260317093218.png",
-    "Pasted image 20260317092632.png",
-    "Pasted image 20260317092247.png",
-    "Pasted image 20260317091454.png",
-    "Pasted image 20260316155655.png",
-    "Pasted image 20260316154755.png",
-    "Pentest on DVWA , Metasploitable.md",
-    "README.md",
+    "File System/__Backbone.md",
+    "File System/File system.md",
+    "internship/Cyber_Gurukul_Deloitte/_support_files/Authentication.md",
+    "internship/Cyber_Gurukul_Deloitte/_support_files/ABAC.md",
+    "internship/Cyber_Gurukul_Deloitte/_support_files/20240205_What_Are_The_18_CIS_Controls_In_Version_8_Inline_Graphic_1_c65c425a82.webp",
+    "internship/Cyber_Gurukul_Deloitte/_support_files/Vulnerability.md",
+    "internship/Cyber_Gurukul_Deloitte/_support_files/steganography.md",
+    "internship/Cyber_Gurukul_Deloitte/_support_files/Single Loss Expectancy (SLE).md",
+    "internship/Cyber_Gurukul_Deloitte/_support_files/Pasted image 20260130102411.png",
+    "internship/Cyber_Gurukul_Deloitte/_support_files/Bot.md",
+    "internship/Cyber_Gurukul_Deloitte/_support_files/abuse ip database.md",
+    "internship/Infosys Springboard/feature engineering.md",
+    "internship/Infosys Springboard/EDA  (Exploratory Data Analysis)/eda.md",
+    "internship/Infosys Springboard/EDA  (Exploratory Data Analysis)/basics.md",
+    "internship/Cyber_Gurukul_Deloitte/_support_files/Intrusion Prevention System.md",
+    "lenux commands.md",
+    "internship/Cyber_Gurukul_Deloitte/_support_files/Intrusion Detection System.md",
+    "internship/Cyber_Gurukul_Deloitte/_support_files/honeypots.md",
+    "📈 Progress Dashboard 📈.md",
+    "internship/Cyber_Gurukul_Deloitte/_support_files/evil -no-vnc.md",
+    "internship/Cyber_Gurukul_Deloitte/_support_files/Enable SSH on the Kali Machine.md",
+    "internship/Cyber_Gurukul_Deloitte/_support_files/EDR alerts.md",
+    "internship/Cyber_Gurukul_Deloitte/_support_files/Cerber.md",
+    "internship/Cyber_Gurukul_Deloitte/_support_files/Blue.md",
+    "internship/Cyber_Gurukul_Deloitte/_support_files/Beconing.md",
     "Remember.md",
-    "research paper V1.md",
-    "internship/Cyber_Gurukul_Deloitte/Week 8/SDI 10_03_2026.md",
-    "Untitled 1.md",
-    "internship/Cyber_Gurukul_Deloitte/Week 8/SDI 11_03_2026.md",
-    "internship/Cyber_Gurukul_Deloitte/Week 8/SDI 13_03_2026.md",
-    "internship/Cyber_Gurukul_Deloitte/_Tools/Maltego.md",
+    "README.md",
+    "key_word.md",
+    "internship/Cyber_Gurukul_Deloitte/_support_files",
+    "internship/Cyber_Gurukul_Deloitte/pasted_images/Pasted image 20260407103509.png",
+    "internship/Cyber_Gurukul_Deloitte/Unsorted_image",
+    "internship/Cyber_Gurukul_Deloitte/pasted_images/Pasted image 20260407143856.png",
+    "internship/Cyber_Gurukul_Deloitte/pasted_images/Pasted image 20260407144159.png",
+    "internship/Cyber_Gurukul_Deloitte/pasted_images/Pasted image 20260407144802.png",
+    "internship/Cyber_Gurukul_Deloitte/pasted_images/Pasted image 20260407100751.png",
+    "internship/Cyber_Gurukul_Deloitte/pasted_images/Pasted image 20260407100452.png",
+    "internship/Cyber_Gurukul_Deloitte/pasted_images/Pasted image 20260407100315.png",
+    "internship/Cyber_Gurukul_Deloitte/pasted_images/Pasted image 20260403125457.png",
+    "internship/Cyber_Gurukul_Deloitte/pasted_images",
+    "internship/Cyber_Gurukul_Deloitte/Week 11",
+    "internship/Cyber_Gurukul_Deloitte/Week 10",
+    "internship/Cyber_Gurukul_Deloitte/Week 9",
     "internship/Cyber_Gurukul_Deloitte/_Tools",
-    "research paper V2.md",
-    "D&R.md",
-    "internship/Cyber_Gurukul_Deloitte/Week 6/SDI 24_02_2026.md",
-    "mmm.md",
-    "internship/Cyber_Gurukul_Deloitte/Week 8/SDI 12_03_2026.md",
-    "MISP.md",
     "internship/Cyber_Gurukul_Deloitte/Week 8/~syncthing~SDI 09_03_2026.md.tmp",
     "~syncthing~honeypots.md.tmp",
     "internship/Cyber_Gurukul_Deloitte/Week 8/~syncthing~SDI 09_03_2026.sync-conflict-20260309-101444-K6NHIRD.md.tmp",
-    "internship/Cyber_Gurukul_Deloitte/Week 8",
-    "internship/THM/__Supporting_notes",
-    "internship/Cyber_Gurukul_Deloitte/Week 7/_support_files",
-    "internship/Cyber_Gurukul_Deloitte/Week 7/__pasted_image",
-    "internship/Cyber_Gurukul_Deloitte/Week 7",
-    "internship/Cyber_Gurukul_Deloitte/Week 6/pentest-standard-readthedocs-io-en-latest.pdf",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "sem_1/Untitled.canvas",
