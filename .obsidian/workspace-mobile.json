@@ -8,63 +8,59 @@
         "type": "tabs",
         "children": [
           {
-            "id": "af018c103591b3fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "internship/Cyber_Gurukul_Deloitte/Week 6/SDI 23_02_2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SDI 23_02_2026"
-            }
-          },
-          {
-            "id": "0ced0ad440103b00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SDI 26_02_2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SDI 26_02_2026"
-            }
-          },
-          {
-            "id": "f50452003b4dcd61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SDI 12_03_2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SDI 12_03_2026"
-            }
-          },
-          {
             "id": "eec053b9e6d0fc72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "internship/Cyber_Gurukul_Deloitte/__Backbone SDI.md",
+                "file": "Remember.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Remember"
+            }
+          },
+          {
+            "id": "c45d6772495baadc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SDI 13_04_2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "__Backbone SDI"
+              "title": "SDI 13_04_2026"
+            }
+          },
+          {
+            "id": "c072104d6d753041",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "👺C👺T👺F/Linux Basics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linux Basics"
+            }
+          },
+          {
+            "id": "935ce13df5be908a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -155,7 +151,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "internship/Cyber_Gurukul_Deloitte/Week 6/pentest-standard-readthedocs-io-en-latest.pdf",
+            "file": "👺C👺T👺F/Linux Basics.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -210,10 +206,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "eec053b9e6d0fc72",
+  "active": "c072104d6d753041",
   "lastOpenFiles": [
-    "SDI 16_03_2026.md",
+    "👺C👺T👺F/__Backbone CTF.md",
+    "👺C👺T👺F/Linux Basics.md",
+    "SSH key id_rsa file.md",
+    "SSH  remote login.md",
+    "Switch user linux.md",
+    "Bosh Ciso.md",
+    "CTF  Basics 11.md",
+    "CTF  Basics.md",
+    "CTF Basics.md",
+    "SDI 17_04_2026.md",
+    "Linux Basics.md",
+    "👺C👺T👺F",
+    "SDI 13_04_2026.md",
+    "Remember.md",
     "internship/Cyber_Gurukul_Deloitte/__Backbone SDI.md",
+    "malware analysis.md",
+    "SDI 16_03_2026.md",
     "SDI 18_03_2026.md",
     "OTX.md",
     "SDI 12_03_2026.md",
@@ -221,25 +232,11 @@
     "internship/Cyber_Gurukul_Deloitte/Week 6/SDI 25_02_2026.md",
     "honeypots.md",
     "internship/Cyber_Gurukul_Deloitte/Week 8/SDI 09_03_2026.sync-conflict-20260309-101444-K6NHIRD.md",
-    "Remember.md",
     "SDI 26_02_2026.md",
     "Excalidraw/Drawing 2026-02-26 14.44.43.excalidraw.md",
     "Pasted image 20260226122250.png",
     "SDI 25_02_2026.md",
-    "internship/Cyber_Gurukul_Deloitte/Week 6/SDI 24_02_2026.md",
-    "internship/THM/Network service.md",
     "internship/Cyber_Gurukul_Deloitte/Week 6/pentest-standard-readthedocs-io-en-latest.pdf",
-    "__Notes & To do/To Do List.md",
-    "DNSdumbster.md",
-    "internship/Cyber_Gurukul_Deloitte/Week 6/_support_files/Intelligence Gathering.md",
-    "internship/Cyber_Gurukul_Deloitte/Week 6/_support_files/PTES.md",
-    "internship/Cyber_Gurukul_Deloitte/Week 6/SDI 23_02_2026.md",
-    "M.md",
-    "pre-engagement interaction.md",
-    "Google Search operators.md",
-    "Exploit Database.md",
-    "internship/Cyber_Gurukul_Deloitte/Week 6/_support_files/Tactics.md",
-    "internship/Cyber_Gurukul_Deloitte/Week 6/_support_files/rules of engagements ROE.md",
     "internship/Cyber_Gurukul_Deloitte/Week 6/_support_files",
     "internship/Cyber_Gurukul_Deloitte/Week 3/Week 3 and Week 4.pdf",
     "Intership/Cyber_Gurukul_Deloitte/week 1 and 2.pdf",
