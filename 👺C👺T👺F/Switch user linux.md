@@ -1,327 +1,375 @@
-Here’s what each of these commands means in a Linux/Unix shell (Bash) and how they relate to switching users and checking privileges.
+## Linux User Switching and Privilege Checking
 
+These commands are essential in Linux/Unix (especially Bash) for switching users and checking administrative privileges.
 
 ---
 
-1. Switch User → su username
+# 1. Switch User → `su username`
 
+```bash
 su username
+```
 
-What it does
+## What it does
 
-su stands for substitute user or switch user.
+`su` stands for:
+
+**substitute user**  
+or  
+**switch user**
 
 It allows you to start a shell as another user account.
 
-Example:
+### Example
 
+```bash
 su john
+```
 
-This attempts to switch from your current user to the user john.
-
+This attempts to switch from your current user to the user `john`.
 
 ---
 
-What happens after running it
+## What happens after running it
 
-The system asks for the target user’s password (not your password):
+The system asks for the **target user’s password** (not your current password):
 
+```bash
 Password:
+```
 
-If correct, your shell changes to that user.
+If the password is correct, your shell changes to that user.
 
-Example prompt:
+### Example prompt
 
+Before:
+
+```bash
 alice@server:~$
+```
 
-after:
+After:
 
+```bash
 su john
+```
 
-becomes:
+Becomes:
 
+```bash
 john@server:/home/john$
-
-
----
-
-Common Variants
-
+```
 
 ---
 
-su - username
+# Common Variants of `su`
 
+---
+
+## `su - username`
+
+```bash
 su - john
+```
 
-This is better than plain su.
+This is better than plain `su`.
 
-It gives you:
+It provides:
 
-full login shell
+- Full login shell
+    
+- Target user’s environment
+    
+- Target user’s `PATH`
+    
+- Target user’s home directory
+    
 
-target user’s environment
-
-target user’s PATH
-
-target user’s home directory
-
-
-This behaves like the user logged in normally.
-
+This behaves as if the user logged in normally.
 
 ---
 
-su
+## `su`
 
+```bash
 su
+```
 
 Without specifying a username, it switches to:
 
-root
+# `root`
 
 (the superuser)
 
 So:
 
+```bash
 su
+```
 
 means:
 
+```bash
 su root
-
+```
 
 ---
 
-Important Notes
+# Important Notes
 
-Requires password
+## Password Requirement
 
 You usually need:
 
-root password
-
-or target user password
-
+- the **root password**, or
+    
+- the **target user’s password**
+    
 
 depending on system configuration.
 
-
 ---
 
-Example
+## Example
 
+```bash
 whoami
+```
 
 Output:
 
+```bash
 student
+```
 
-Now:
+Now run:
 
+```bash
 su root
+```
 
-then:
+Then:
 
+```bash
 whoami
+```
 
 Output:
 
+```bash
 root
-
+```
 
 ---
 
-2. Check Sudo Privileges → sudo -l
+# 2. Check Sudo Privileges → `sudo -l`
 
+```bash
 sudo -l
+```
 
-What it does
+---
+
+## What it does
 
 This shows:
 
-what commands you are allowed to run using sudo
+**what commands you are allowed to run using `sudo`**
 
 without actually running them.
 
--l means:
+`-l` means:
 
-list privileges
-
+# list privileges
 
 ---
 
-What is sudo?
+# What is `sudo`?
 
-sudo means:
+`sudo` stands for:
 
-SuperUser DO
+# SuperUser DO
 
 It allows normal users to execute commands as:
 
-root
+- `root`
+    
+- another user
+    
 
-another user
-
-
-if permitted in the sudoers file
+if permitted in the **sudoers file**
 
 located at:
 
+```bash
 /etc/sudoers
-
+```
 
 ---
 
-Example
+# Example
 
+```bash
 sudo -l
+```
 
 Possible output:
 
+```bash
 Matching Defaults entries for john on server:
     env_reset, mail_badpass
 
 User john may run the following commands on server:
     (ALL : ALL) ALL
-
+```
 
 ---
 
-Meaning of This Output
+# Meaning of This Output
 
-(ALL : ALL) ALL
+## `(ALL : ALL) ALL`
 
-means:
+This means:
 
-User can run:
+The user can run:
 
-any command
-
-as any user
-
-as any group
-
+- any command
+    
+- as any user
+    
+- as any group
+    
 
 This is basically:
 
-full root access
-
+# Full root access
 
 ---
 
-Another Example
+# Another Example
 
+```bash
 User john may run the following commands:
     (root) /usr/bin/systemctl
+```
 
 This means:
 
 John can only run:
 
+```bash
 sudo systemctl
+```
 
 but not:
 
+```bash
 sudo rm -rf /
-
+```
 
 ---
 
-Very Useful for Privilege Escalation
+# Very Useful for Privilege Escalation
 
 Security professionals and penetration testers use:
 
+```bash
 sudo -l
+```
 
 to check:
 
-Can this user become root?
+## Can this user become root?
 
 Sometimes dangerous permissions exist like:
 
+```bash
 (root) NOPASSWD: /usr/bin/vim
+```
 
 This can lead to:
 
-privilege escalation
+# privilege escalation
 
 to root.
 
-
 ---
 
-NOPASSWD
+# `NOPASSWD`
 
 Example:
 
+```bash
 (root) NOPASSWD: /usr/bin/python3
+```
 
-means:
+This means:
 
 You can run:
 
+```bash
 sudo python3
+```
 
 without entering a password.
 
 Very powerful.
 
+---
+
+# Quick Comparison
+
+|Command|Purpose|
+|---|---|
+|`su username`|Switch to another user|
+|`su - username`|Full login shell as another user|
+|`su`|Switch to root|
+|`sudo command`|Run one command as root|
+|`sudo -l`|List sudo permissions|
 
 ---
 
-Quick Comparison
+# Real-World Example
 
-Command	Purpose
-
-su username	Switch to another user
-su - username	Full login shell as another user
-su	Switch to root
-sudo command	Run one command as root
-sudo -l	List sudo permissions
-
-
-
----
-
-Real-World Example
-
+```bash
 whoami
 sudo -l
 su root
 id
+```
 
 This helps determine:
 
-current user
-
-sudo access
-
-root access
-
-user groups
-
-
+- current user
+    
+- sudo access
+    
+- root access
+    
+- user groups
+    
 
 ---
 
-Security Note
+# Security Note
 
 Never give unrestricted:
 
+```bash
 (ALL) ALL
+```
 
 unless absolutely necessary.
 
-Least privilege is best practice.
-
+## Least privilege is best practice.
 
 ---
 
-Related Commands
+# Related Commands
 
-Useful with this topic:
+Useful commands related to this topic:
 
+```bash
 whoami
 id
 groups
@@ -329,18 +377,18 @@ sudo -i
 sudo su
 passwd
 visudo
-
+```
 
 ---
 
-Summary
+# Summary
 
-su username
+## `su username`
 
-→ switch shell to another user
+→ Switch your shell to another user
 
-sudo -l
+## `sudo -l`
 
-→ list what commands you can run with elevated privileges
+→ List what commands you can run with elevated privileges
 
 These are foundational Linux administration and cybersecurity commands.

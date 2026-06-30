@@ -4,53 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "31fdfd63e2a0e022",
+        "id": "c9fe45732ad123e1",
         "type": "tabs",
         "children": [
           {
-            "id": "730f7928c4671a04",
+            "id": "ca81809ecc4db7cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "internship/Cyber_Gurukul_Deloitte/__Backbone SDI.md",
+                "file": "NASSCOM Prep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "__Backbone SDI"
+              "title": "NASSCOM Prep"
             }
           },
           {
-            "id": "f5c685574ace262f",
+            "id": "b026c0f499fb7c65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SDI 20_04_2026.md",
+                "file": "Question NASSCOM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SDI 20_04_2026"
+              "title": "Question NASSCOM"
             }
           },
           {
-            "id": "01503823fb2c0465",
+            "id": "52fcbee90694660a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SDI 21_04_2026.md",
+                "file": "Untitled 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SDI 21_04_2026"
+              "title": "Untitled 1"
+            }
+          },
+          {
+            "id": "eafa7620a16ba3c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "internship/Cyber_Gurukul_Deloitte/Week 9/SDI 16_03_2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SDI 16_03_2026"
+            }
+          },
+          {
+            "id": "0078d7406e7bcbd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Akshay s imf202601dusi279 lab3  Weekly Assessment 15.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Akshay s imf202601dusi279 lab3  Weekly Assessment 15"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -82,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nmap",
+                "query": "splunk",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -176,16 +204,6 @@
             }
           },
           {
-            "id": "d875d75e1a71797b",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
-            }
-          },
-          {
             "id": "65e0053ab4b7eddd",
             "type": "leaf",
             "state": {
@@ -204,8 +222,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,54 +236,54 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f5c685574ace262f",
+  "active": "0078d7406e7bcbd6",
   "lastOpenFiles": [
-    "internship/Cyber_Gurukul_Deloitte/__Backbone SDI.md",
-    "SDI 21_04_2026.md",
-    "👺C👺T👺F/Networking Basics.md",
-    "SDI 20_04_2026.md",
-    "lenux commands.md",
-    "Bosh Ciso.md",
-    "🔧 Tools and Use.md",
-    "👺C👺T👺F/CTF  Basics START.md",
-    "Untitled.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 9/SDI 16_03_2026.md",
+    "Akshay s imf202601dusi279 lab3  Weekly Assessment 15.md",
+    "Akshay s imf202601dusi279 lab3  Weekly Assessment 15.md",
+    "internship/Cyber_Gurukul_Deloitte/Week 9/SDI 17_03_2026.md",
+    "questions VIVA.md",
     "Untitled 1.md",
-    "Untitled 2.md",
-    "👺C👺T👺F/Change Ownership Lenux.md",
-    "👺C👺T👺F/CTF Basics.md",
-    "README.md",
+    "Question NASSCOM.md",
+    "NASSCOM Prep.md",
+    "20_05_2026_NASSCOM.md",
+    "Untitled.md",
+    "SME Session 2.md",
+    "SME.md",
+    "Service now.md",
+    "SDI 20_04_2026.md",
     "Remember.md",
-    "👺C👺T👺F/SSH  remote login.md",
-    "👺C👺T👺F/SSH key id_rsa file.md",
-    "👺C👺T👺F/Switch user linux.md",
-    "👺C👺T👺F/__Backbone CTF.md",
-    "👺C👺T👺F/Linux Basics.md",
-    "internship/Cyber_Gurukul_Deloitte/Week 6/SDI 25_02_2026.md",
-    "internship/Cyber_Gurukul_Deloitte/Week 6/SDI 23_02_2026.md",
-    "internship/Cyber_Gurukul_Deloitte/Week 6/SDI 24_02_2026.md",
-    "internship/Cyber_Gurukul_Deloitte/Week 6/_support_files/nmap.md",
-    "internship/Cyber_Gurukul_Deloitte/Week 7/SDI 05_03_2026.md",
-    "internship/THM/Nmap- The Basics.md",
-    "internship/Cyber_Gurukul_Deloitte/Week 13/Pasted Image/Screenshot 2026-04-15 062419.png",
+    "Pasted image 20260617115517.png",
+    "ai automation.md",
+    "Bosh Ciso.md",
+    "pentesting.md",
+    "__ catalog/all.md",
+    "🔧 Tools and Use.md",
+    "KV/aivoa_test_cases.md",
+    "SDI 21_04_2026.md",
+    "Pasted image 20260422213430.png",
+    "CTF_24_04_2026.md",
+    "Pasted image 20260424164501.png",
+    "KV",
+    "New folder",
+    "English final assesment.md",
+    "Pasted image 20260424142723.png",
+    "----/Weekly Assessment 16.md",
+    "----/references_guide.md",
+    "----/Pasted image 20260513145953.png",
+    "----/Pasted image 20260513145924.png",
+    "----/Pasted image 20260513145830.png",
+    "----/Pasted image 20260513145800.png",
+    "Pasted image 20260424155715.png",
+    "Pasted image 20260424164431.png",
+    "----",
     "internship/Cyber_Gurukul_Deloitte/Week 13/Supporting Notes",
-    "internship/Cyber_Gurukul_Deloitte/Week 13/Pasted Image/Pasted image 20260413120208.png",
     "internship/Cyber_Gurukul_Deloitte/Week 13/Pasted Image",
-    "internship/Cyber_Gurukul_Deloitte/Week 13/Pasted Image/Pasted image 20260414165526.png",
-    "internship/Cyber_Gurukul_Deloitte/Week 13/Pasted Image/Pasted image 20260415063134.png",
-    "internship/Cyber_Gurukul_Deloitte/Week 13/Pasted Image/Pasted image 20260415063533.png",
-    "internship/Cyber_Gurukul_Deloitte/Week 13/Pasted Image/Pasted image 20260415063943.png",
-    "internship/Cyber_Gurukul_Deloitte/Week 13/Pasted Image/Pasted image 20260415064314.png",
-    "internship/Cyber_Gurukul_Deloitte/Week 13/Pasted Image/Pasted image 20260415112904.png",
-    "internship/Cyber_Gurukul_Deloitte/Week 13/Pasted Image/Pasted image 20260415102911.png",
-    "internship/Cyber_Gurukul_Deloitte/Week 13/Pasted Image/Pasted image 20260415152958.png",
     "internship/Cyber_Gurukul_Deloitte/Week 13",
     "~syncthing~Bosh Ciso.md.tmp",
     "👺C👺T👺F",
     "~syncthing~malware analysis.md.tmp",
     "internship/Cyber_Gurukul_Deloitte/Week 12",
-    "internship/Cyber_Gurukul_Deloitte/_support_files",
-    "internship/Cyber_Gurukul_Deloitte/Unsorted_image",
-    "internship/Cyber_Gurukul_Deloitte/pasted_images",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "sem_1/Untitled.canvas",

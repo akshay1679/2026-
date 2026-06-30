@@ -311,9 +311,20 @@ uid=1000(user) gid=1000(user)
 ```bash
 su username
 sudo -l
+sudo -ll  --> more detailed informations
 ```
 
 [[Switch user linux ]]
+
+![[Pasted image 20260421124044.png]]
+
+This means:
+
+- User `Akshay` can run **any command**
+- As **any user**
+- On this machine
+
+![[Pasted image 20260421124326.png]]
 
 ---
 

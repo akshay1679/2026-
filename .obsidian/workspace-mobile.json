@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "👺C👺T👺F/Linux Basics.md",
-                "mode": "source",
+                "file": "SME.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux Basics"
+              "title": "SME"
             }
           },
           {
@@ -208,8 +208,10 @@
   },
   "active": "c072104d6d753041",
   "lastOpenFiles": [
-    "👺C👺T👺F/__Backbone CTF.md",
+    "👺C👺T👺F/Change Ownership Lenux.md",
+    "SME.md",
     "👺C👺T👺F/Linux Basics.md",
+    "👺C👺T👺F/__Backbone CTF.md",
     "SSH key id_rsa file.md",
     "SSH  remote login.md",
     "Switch user linux.md",
@@ -233,9 +235,7 @@
     "honeypots.md",
     "internship/Cyber_Gurukul_Deloitte/Week 8/SDI 09_03_2026.sync-conflict-20260309-101444-K6NHIRD.md",
     "SDI 26_02_2026.md",
-    "Excalidraw/Drawing 2026-02-26 14.44.43.excalidraw.md",
     "Pasted image 20260226122250.png",
-    "SDI 25_02_2026.md",
     "internship/Cyber_Gurukul_Deloitte/Week 6/pentest-standard-readthedocs-io-en-latest.pdf",
     "internship/Cyber_Gurukul_Deloitte/Week 6/_support_files",
     "internship/Cyber_Gurukul_Deloitte/Week 3/Week 3 and Week 4.pdf",

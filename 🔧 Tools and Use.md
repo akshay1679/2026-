@@ -6,3 +6,12 @@
 2. <mark style="background: #FFB8EBA6;">Velociraptor</mark>
 	1.  Velociraptor is an **endpoint detection and response ([[EDR]]) + digital forensics tool**. It runs on individual machines (endpoints).
 
+
+## Crack hashes 
+
+john the ripper
+hashcat
+
+
+URl decode
+

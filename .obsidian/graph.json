@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "file:__Backbone SDI",
@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 14570208
       }
+    },
+    {
+      "query": "file:__Backbone CTF",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
     }
   ],
   "collapse-display": true,
@@ -32,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.15046368580174146,
-  "close": true
+  "scale": 0.2893482522783686,
+  "close": false
 }
